@@ -1,0 +1,108 @@
+[
+    {
+        "id": "BOSTON-1",
+        "title": "Boston",
+        "description": "The Boston office (Headquarters)",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "Boston",
+            "United States",
+            "Headquarters"
+        ],
+        "address1": "125 Summer Street",
+        "address2": "",
+        "city": "Boston",
+        "zip": "02110",
+        "region": "Massachusetts",
+        "country": "United States",
+        "location_id": "BOSTON-1",
+        "lat": "42.3529875",
+        "lng": "-71.0597067"
+    },
+    {
+        "id": "SANFRANCISCO-1",
+        "title": "San Francisco",
+        "description": "The San Francisco office",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "San Francisco",
+            "United States"
+        ],
+        "address1": "181 Fremont Street",
+        "address2": "Floor 21",
+        "city": "San Francisco",
+        "zip": "94105",
+        "region": "California",
+        "country": "United States",
+        "location_id": "SANFRANCISCO-1",
+        "lat": "37.788110",
+        "lng": "-122.397530"
+    },
+    {
+        "id": "DENVER-1",
+        "title": "Denver",
+        "description": "The Denver office",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "Denver",
+            "United States"
+        ],
+        "address1": "1200 17th Street",
+        "address2": "Floor 25",
+        "city": "Denver",
+        "zip": "80202",
+        "region": "Colorado",
+        "country": "United States",
+        "location_id": "DENVER-1",
+        "lat": "39.750970",
+        "lng": "-104.997390"
+    },
+    {
+        "id": "LONDON-1",
+        "title": "London",
+        "description": "The London office",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "London",
+            "United Kingdom"
+        ],
+        "address1": "1 Bedford Street",
+        "address2": "",
+        "city": "London",
+        "zip": "WC2E 9HG",
+        "region": "England",
+        "country": "United Kingdom",
+        "location_id": "LONDON-1",
+        "lat": "51.510900",
+        "lng": "-0.125850"
+    },
+    {
+        "id": "DUBLIN-1",
+        "title": "Dublin",
+        "description": "The Dublin office (Bottleworks)",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "Dublin",
+            "Ireland"
+        ],
+        "address1": "The Bottleworks, 12 Barrow Street",
+        "address2": "",
+        "city": "Dublin",
+        "zip": "D04 H2Y2",
+        "region": "Leinster",
+        "country": "Ireland",
+        "location_id": "DUBLIN-1",
+        "lat": "53.339120",
+        "lng": "-6.237470"
+    }
+]

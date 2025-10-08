@@ -1,0 +1,23 @@
+[
+    {
+        "id": "SYDNEY-1",
+        "title": "Sydney",
+        "description": "The Sydney office",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "Sydney",
+            "Australia"
+        ],
+        "address1": "Level 12, 60 Martin Place",
+        "address2": "",
+        "city": "Sydney",
+        "zip": "2000",
+        "region": "New South Wales",
+        "country": "Australia",
+        "location_id": "SYDNEY-1",
+        "lat": "-33.868900",
+        "lng": "151.210000"
+    }
+]
