@@ -1,0 +1,87 @@
+[
+    {
+        "id": "PROD-001",
+        "title": "Aurora Laptop 15",
+        "description": "A lightweight 15-inch laptop with long battery life and a crystal-clear display.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": ["Electronics", "Computers", "Laptops"],
+        "brand": "AuroraTech",
+        "price": "1199.99",
+        "currency": "USD",
+        "sku": "AUR-LAP15",
+        "stock": 25
+    },
+    {
+        "id": "PROD-002",
+        "title": "Nimbus Noise-Cancelling Headphones",
+        "description": "Wireless over-ear headphones with adaptive noise cancellation and 30-hour playtime.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": ["Electronics", "Audio", "Headphones"],
+        "brand": "Nimbus",
+        "price": "249.00",
+        "currency": "USD",
+        "sku": "NIMB-H100",
+        "stock": 80
+    },
+    {
+        "id": "PROD-003",
+        "title": "Terra Ceramic Mug",
+        "description": "A hand-glazed 12oz ceramic mug available in multiple earth-tone colors.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": ["Home", "Kitchen", "Drinkware"],
+        "brand": "TerraCraft",
+        "price": "14.50",
+        "currency": "USD",
+        "sku": "TERRA-MUG12",
+        "stock": 120
+    },
+    {
+        "id": "PROD-004",
+        "title": "Evergreen Yoga Mat",
+        "description": "Eco-friendly, non-slip yoga mat made from natural rubber.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": ["Fitness", "Yoga", "Accessories"],
+        "brand": "Evergreen",
+        "price": "59.99",
+        "currency": "USD",
+        "sku": "EVER-YMAT",
+        "stock": 60
+    },
+    {
+        "id": "PROD-005",
+        "title": "Lumen Smart Lamp",
+        "description": "Smart LED desk lamp with touch controls and voice assistant integration.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": ["Home", "Lighting", "Smart Devices"],
+        "brand": "Lumen",
+        "price": "89.95",
+        "currency": "USD",
+        "sku": "LUMEN-SMART",
+        "stock": 45
+    },
+    {
+        "id": "PROD-006",
+        "title": "Atlas Travel Backpack",
+        "description": "Durable, water-resistant backpack with 30L capacity and laptop compartment.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": ["Travel", "Bags", "Backpacks"],
+        "brand": "Atlas",
+        "price": "129.00",
+        "currency": "USD",
+        "sku": "ATLAS-TRAVEL",
+        "stock": 35
+    }
+]
+
