@@ -1,26 +1,5 @@
 [
     {
-        "id": "DUBLIN-1",
-        "title": "Dublin",
-        "description": "The Dublin office (Bottleworks)",
-        "link": "empty",
-        "image_link": "empty",
-        "radius": 100,
-        "categories": [
-            "Dublin",
-            "Ireland"
-        ],
-        "address1": "The Bottleworks, 12 Barrow Street",
-        "address2": "",
-        "city": "Dublin",
-        "zip": "D04 H2Y2",
-        "region": "Leinster",
-        "country": "Ireland",
-        "location_id": "DUBLIN-1",
-        "lat": "53.339120",
-        "lng": "-6.237470"
-    },
-    {
         "id": "BOSTON-1",
         "title": "Boston",
         "description": "The Boston office (Headquarters)",
