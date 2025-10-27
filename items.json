@@ -1,4 +1,18 @@
 [
+    {
+        "id": "PROD-001",
+        "title": "Aurora Laptop 15",
+        "description": "A lightweight 15-inch laptop with long battery life and a crystal-clear display.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": ["Electronics", "Computers", "Laptops"],
+        "brand": "AuroraTech",
+        "price": "1199.99",
+        "currency": "USD",
+        "sku": "AUR-LAP15",
+        "stock": 25
+    },
     {    
         "id": "PROD-002",
         "title": "Nimbus Noise-Cancelling Headphones",
