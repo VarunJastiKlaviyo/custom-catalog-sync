@@ -1,27 +1,5 @@
 [
     {
-        "id": "BOSTON-1",
-        "title": "Boston",
-        "description": "The Boston office (Headquarters)",
-        "link": "empty",
-        "image_link": "empty",
-        "radius": 100,
-        "categories": [
-            "Boston",
-            "United States",
-            "Headquarters"
-        ],
-        "address1": "125 Summer Street",
-        "address2": "",
-        "city": "Boston",
-        "zip": "02110",
-        "region": "Massachusetts",
-        "country": "United States",
-        "location_id": "BOSTON-1",
-        "lat": "42.3529875",
-        "lng": "-71.0597067"
-    },
-    {
         "id": "SANFRANCISCO-1",
         "title": "San Francisco",
         "description": "The San Francisco office",
