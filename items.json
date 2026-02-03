@@ -1,18 +1,4 @@
 [
-    {    
-        "id": "PROD-002",
-        "title": "Nimbus Noise-Cancelling Headphones",
-        "description": "Wireless over-ear headphones with adaptive noise cancellation and 30-hour playtime.",
-        "link": "empty",
-        "image_link": "empty",
-        "radius": 0,
-        "categories": ["Electronics", "Audio", "Headphones"],
-        "brand": "Nimbus",
-        "price": "249.00",
-        "currency": "USD",
-        "sku": "NIMB-H100",
-        "stock": 80
-    },
     {
         "id": "PROD-003",
         "title": "Terra Ceramic Mug",
