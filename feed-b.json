@@ -1,0 +1,10 @@
+[
+    {
+        "id": "100",
+        "title": "Old Item",
+        "description": "Legacy format",
+        "price": "5.00",
+        "link": "https://example.com/100",
+        "image_link": "https://example.com/100.jpg"
+    }
+]
