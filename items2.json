@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "ITEM-001",
+    "title": "Office Desk Wooden",
+    "description": "Solid oak office desk with spacious work surface and storage drawers.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Health",
+      "Baby"
+    ],
+    "brand": "TrailWay",
+    "price": "1246.87",
+    "currency": "USD",
+    "sku": "TRA-5317",
+    "stock": 43
+  },
+  {
+    "id": "ITEM-002",
+    "title": "Baby Monitor Video",
+    "description": "Waterproof crib mattress protector with washable cover.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Baby",
+      "Furniture"
+    ],
+    "brand": "ModernStyle",
+    "price": "1653.40",
+    "currency": "USD",
+    "sku": "MOD-1024",
+    "stock": 202
+  },
+  {
+    "id": "ITEM-003",
+    "title": "Bread Mix Bundle",
+    "description": "Single-origin organic coffee beans roasted fresh within days of shipment.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Grocery",
+      "Outdoor",
+      "Automotive"
+    ],
+    "brand": "BabyBliss",
+    "price": "213.09",
+    "currency": "USD",
+    "sku": "BAB-2426",
+    "stock": 67
+  },
+  {
+    "id": "ITEM-004",
+    "title": "Honey Raw Pure",
+    "description": "Raw unfiltered honey harvested from local wildflower meadows.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Grocery",
+      "Jewelry"
+    ],
+    "brand": "PremiumCraft",
+    "price": "1914.96",
+    "currency": "USD",
+    "sku": "PRE-7113",
+    "stock": 227
+  },
+  {
+    "id": "ITEM-005",
+    "title": "Camping Tent 4-Person",
+    "description": "Double-wall vacuum insulated bottle maintains temperature for 24 hours.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Jewelry",
+      "Art Supplies"
+    ],
+    "brand": "TrailWay",
+    "price": "1468.06",
+    "currency": "USD",
+    "sku": "TRA-1235",
+    "stock": 79
+  },
+  {
+    "id": "ITEM-006",
+    "title": "Blood Pressure Monitor",
+    "description": "Adjustable dumbbell set with quick-change weight system.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Furniture",
+      "Baby"
+    ],
+    "brand": "VitaCore",
+    "price": "1239.90",
+    "currency": "USD",
+    "sku": "VIT-1628",
+    "stock": 32
+  },
+  {
+    "id": "ITEM-007",
+    "title": "Canvas Pad 9x12",
+    "description": "Heavyweight cotton canvas pad ideal for oils, acrylics, and mixed media.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Art Supplies",
+      "Jewelry",
+      "Health"
+    ],
+    "brand": "GameZone",
+    "price": "1242.90",
+    "currency": "USD",
+    "sku": "GAM-1475",
+    "stock": 216
+  },
+  {
+    "id": "ITEM-008",
+    "title": "VR Headset",
+    "description": "High-precision gaming mouse with customizable RGB lighting effects.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Gaming",
+      "Jewelry"
+    ],
+    "brand": "TinyTots",
+    "price": "1090.07",
+    "currency": "USD",
+    "sku": "TIN-5958",
+    "stock": 236
+  },
+  {
+    "id": "ITEM-009",
+    "title": "Air Filter",
+    "description": "Digital tire pressure gauge with LED backlight for accurate readings.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Pet Supplies"
+    ],
+    "brand": "LuxeJewels",
+    "price": "1417.46",
+    "currency": "USD",
+    "sku": "LUX-7037",
+    "stock": 261
+  },
+  {
+    "id": "ITEM-010",
+    "title": "Infant Stroller",
+    "description": "Lightweight stroller with all-terrain wheels and full recline.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Baby",
+      "Grocery"
+    ],
+    "brand": "CreativeArt",
+    "price": "27.78",
+    "currency": "USD",
+    "sku": "CRE-7093",
+    "stock": 19
+  },
+  {
+    "id": "ITEM-011",
+    "title": "Floor Mats",
+    "description": "Digital tire pressure gauge with LED backlight for accurate readings.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Pet Supplies"
+    ],
+    "brand": "LuxeJewels",
+    "price": "1007.12",
+    "currency": "USD",
+    "sku": "LUX-3286",
+    "stock": 164
+  },
+  {
+    "id": "ITEM-012",
+    "title": "Watercolor Paint Set",
+    "description": "Synthetic brush set with multiple sizes for detailed and broad strokes.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Art Supplies",
+      "Jewelry"
+    ],
+    "brand": "FreshFarm",
+    "price": "681.00",
+    "currency": "USD",
+    "sku": "FRE-3513",
+    "stock": 172
+  },
+  {
+    "id": "ITEM-013",
+    "title": "Brushes Professional Set",
+    "description": "Synthetic brush set with multiple sizes for detailed and broad strokes.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Art Supplies",
+      "Health"
+    ],
+    "brand": "FreshFarm",
+    "price": "1178.07",
+    "currency": "USD",
+    "sku": "FRE-7108",
+    "stock": 65
+  },
+  {
+    "id": "ITEM-014",
+    "title": "Floor Mats",
+    "description": "Digital tire pressure gauge with LED backlight for accurate readings.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Baby"
+    ],
+    "brand": "FreshFarm",
+    "price": "1927.35",
+    "currency": "USD",
+    "sku": "FRE-3525",
+    "stock": 74
+  },
+  {
+    "id": "ITEM-015",
+    "title": "Diaper Bag",
+    "description": "Soft cotton crib bedding set with hypoallergenic materials.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Baby",
+      "Gaming",
+      "Furniture"
+    ],
+    "brand": "ModernStyle",
+    "price": "184.34",
+    "currency": "USD",
+    "sku": "MOD-6401",
+    "stock": 251
+  },
+  {
+    "id": "ITEM-016",
+    "title": "Pet Carrier Soft",
+    "description": "Stainless steel water fountain that promotes healthy hydration for cats.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Pet Supplies",
+      "Furniture",
+      "Outdoor"
+    ],
+    "brand": "SpeedRide",
+    "price": "1916.61",
+    "currency": "USD",
+    "sku": "SPE-1065",
+    "stock": 162
+  },
+  {
+    "id": "ITEM-017",
+    "title": "Protein Powder Whey",
+    "description": "Self-myofascial release foam roller for muscle tension relief.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Art Supplies",
+      "Pet Supplies"
+    ],
+    "brand": "PetPro",
+    "price": "410.17",
+    "currency": "USD",
+    "sku": "PET-3428",
+    "stock": 287
+  },
+  {
+    "id": "ITEM-018",
+    "title": "Dog Leash Retractable",
+    "description": "Smart GPS collar tracker to monitor your pet's location in real-time.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Pet Supplies",
+      "Grocery",
+      "Furniture"
+    ],
+    "brand": "PremiumCraft",
+    "price": "1965.06",
+    "currency": "USD",
+    "sku": "PRE-1999",
+    "stock": 127
+  },
+  {
+    "id": "ITEM-019",
+    "title": "Jump Start Battery",
+    "description": "All-weather rubber floor mats with custom fit for maximum coverage.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Art Supplies"
+    ],
+    "brand": "FreshFarm",
+    "price": "1429.91",
+    "currency": "USD",
+    "sku": "FRE-7062",
+    "stock": 204
+  },
+  {
+    "id": "ITEM-020",
+    "title": "Tire Pressure Gauge",
+    "description": "All-weather rubber floor mats with custom fit for maximum coverage.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Health",
+      "Furniture"
+    ],
+    "brand": "FreshFarm",
+    "price": "868.20",
+    "currency": "USD",
+    "sku": "FRE-2569",
+    "stock": 206
+  },
+  {
+    "id": "ITEM-021",
+    "title": "Collar with GPS",
+    "description": "Double-sided grooming brush for effective deshedding and coat care.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Pet Supplies",
+      "Jewelry"
+    ],
+    "brand": "NatureNest",
+    "price": "1673.44",
+    "currency": "USD",
+    "sku": "NAT-3342",
+    "stock": 36
+  },
+  {
+    "id": "ITEM-022",
+    "title": "Dumbbells Adjustable",
+    "description": "Non-slip yoga mat with thick cushioning for comfort and support.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Furniture",
+      "Pet Supplies"
+    ],
+    "brand": "ProGaming",
+    "price": "28.04",
+    "currency": "USD",
+    "sku": "PRO-3168",
+    "stock": 228
+  },
+  {
+    "id": "ITEM-023",
+    "title": "Desk Chair Ergonomic",
+    "description": "Five-tier steel bookshelf with weight capacity of 500 pounds.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Grocery",
+      "Art Supplies"
+    ],
+    "brand": "PetPro",
+    "price": "440.38",
+    "currency": "USD",
+    "sku": "PET-3247",
+    "stock": 163
+  },
+  {
+    "id": "ITEM-024",
+    "title": "Water Bottle Insulated",
+    "description": "Double-wall vacuum insulated bottle maintains temperature for 24 hours.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Baby"
+    ],
+    "brand": "TechFlow",
+    "price": "1444.82",
+    "currency": "USD",
+    "sku": "TEC-4857",
+    "stock": 221
+  },
+  {
+    "id": "ITEM-025",
+    "title": "Air Filter",
+    "description": "Digital tire pressure gauge with LED backlight for accurate readings.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Outdoor"
+    ],
+    "brand": "HealthBoost",
+    "price": "1652.41",
+    "currency": "USD",
+    "sku": "HEA-9880",
+    "stock": 35
+  },
+  {
+    "id": "ITEM-026",
+    "title": "Bread Mix Bundle",
+    "description": "Whole wheat pasta rich in fiber and protein for healthy meals.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Grocery",
+      "Health"
+    ],
+    "brand": "ShineStone",
+    "price": "1976.25",
+    "currency": "USD",
+    "sku": "SHI-4660",
+    "stock": 141
+  },
+  {
+    "id": "ITEM-027",
+    "title": "Portable Stove",
+    "description": "Winter-rated sleeping bag rated to -20F with synthetic insulation.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Art Supplies"
+    ],
+    "brand": "TinyTots",
+    "price": "658.76",
+    "currency": "USD",
+    "sku": "TIN-9217",
+    "stock": 256
+  },
+  {
+    "id": "ITEM-028",
+    "title": "Ground Pad Foam",
+    "description": "Compact butane stove perfect for backpacking and outdoor cooking.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Pet Supplies"
+    ],
+    "brand": "NatureNest",
+    "price": "1062.60",
+    "currency": "USD",
+    "sku": "NAT-6587",
+    "stock": 173
+  },
+  {
+    "id": "ITEM-029",
+    "title": "Bottle Sterilizer",
+    "description": "Spacious diaper bag with multiple compartments and insulated pockets.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Baby",
+      "Health",
+      "Art Supplies"
+    ],
+    "brand": "ProGaming",
+    "price": "396.12",
+    "currency": "USD",
+    "sku": "PRO-7157",
+    "stock": 143
+  },
+  {
+    "id": "ITEM-030",
+    "title": "Foam Roller",
+    "description": "Non-slip yoga mat with thick cushioning for comfort and support.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Grocery"
+    ],
+    "brand": "BabyBliss",
+    "price": "1510.12",
+    "currency": "USD",
+    "sku": "BAB-1466",
+    "stock": 263
+  },
+  {
+    "id": "ITEM-031",
+    "title": "Dashboard Camera",
+    "description": "Digital tire pressure gauge with LED backlight for accurate readings.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Outdoor",
+      "Jewelry"
+    ],
+    "brand": "SketchMaster",
+    "price": "1429.29",
+    "currency": "USD",
+    "sku": "SKE-2360",
+    "stock": 236
+  },
+  {
+    "id": "ITEM-032",
+    "title": "Storage Cabinet",
+    "description": "Five-tier steel bookshelf with weight capacity of 500 pounds.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Baby"
+    ],
+    "brand": "TinyTots",
+    "price": "1105.33",
+    "currency": "USD",
+    "sku": "TIN-2919",
+    "stock": 74
+  },
+  {
+    "id": "ITEM-033",
+    "title": "Drawing Paper Pad",
+    "description": "Synthetic brush set with multiple sizes for detailed and broad strokes.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Art Supplies",
+      "Furniture",
+      "Pet Supplies"
+    ],
+    "brand": "ShineStone",
+    "price": "1156.21",
+    "currency": "USD",
+    "sku": "SHI-9652",
+    "stock": 66
+  },
+  {
+    "id": "ITEM-034",
+    "title": "Maple Syrup Grade A",
+    "description": "Pure maple syrup Grade A amber collected from sustainably managed forests.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Grocery",
+      "Art Supplies"
+    ],
+    "brand": "ModernStyle",
+    "price": "623.39",
+    "currency": "USD",
+    "sku": "MOD-5256",
+    "stock": 141
+  },
+  {
+    "id": "ITEM-035",
+    "title": "Fitness Tracker",
+    "description": "Adjustable dumbbell set with quick-change weight system.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Gaming",
+      "Art Supplies"
+    ],
+    "brand": "SpeedRide",
+    "price": "196.05",
+    "currency": "USD",
+    "sku": "SPE-7900",
+    "stock": 206
+  },
+  {
+    "id": "ITEM-036",
+    "title": "Sketching Pencil Kit",
+    "description": "Professional sketching pencil kit with graphite grades HB through 6B.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Art Supplies",
+      "Furniture",
+      "Jewelry"
+    ],
+    "brand": "PetPro",
+    "price": "781.24",
+    "currency": "USD",
+    "sku": "PET-7828",
+    "stock": 78
+  },
+  {
+    "id": "ITEM-037",
+    "title": "Vitamins Multi Daily",
+    "description": "Whey protein powder with complete amino acid profile for muscle recovery.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Automotive"
+    ],
+    "brand": "GameZone",
+    "price": "107.25",
+    "currency": "USD",
+    "sku": "GAM-9123",
+    "stock": 143
+  },
+  {
+    "id": "ITEM-038",
+    "title": "Vanilla Extract Pure",
+    "description": "Single-origin organic coffee beans roasted fresh within days of shipment.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Grocery",
+      "Gaming"
+    ],
+    "brand": "ShineStone",
+    "price": "985.47",
+    "currency": "USD",
+    "sku": "SHI-2295",
+    "stock": 172
+  },
+  {
+    "id": "ITEM-039",
+    "title": "Racing Wheel",
+    "description": "High-precision gaming mouse with customizable RGB lighting effects.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Gaming",
+      "Grocery",
+      "Pet Supplies"
+    ],
+    "brand": "GameZone",
+    "price": "1109.76",
+    "currency": "USD",
+    "sku": "GAM-8867",
+    "stock": 190
+  },
+  {
+    "id": "ITEM-040",
+    "title": "Watch Analog",
+    "description": "14K gold diamond solitaire ring with certified gemstone.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Jewelry",
+      "Grocery"
+    ],
+    "brand": "OutdoorPro",
+    "price": "426.52",
+    "currency": "USD",
+    "sku": "OUT-6699",
+    "stock": 205
+  },
+  {
+    "id": "ITEM-041",
+    "title": "Game Pass Card",
+    "description": "Wireless gaming headset with surround sound and noise-canceling microphone.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Gaming",
+      "Furniture"
+    ],
+    "brand": "CreativeArt",
+    "price": "1205.47",
+    "currency": "USD",
+    "sku": "CRE-8084",
+    "stock": 62
+  },
+  {
+    "id": "ITEM-042",
+    "title": "Floor Mats",
+    "description": "All-weather rubber floor mats with custom fit for maximum coverage.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Jewelry",
+      "Health"
+    ],
+    "brand": "ShineStone",
+    "price": "557.56",
+    "currency": "USD",
+    "sku": "SHI-1341",
+    "stock": 127
+  },
+  {
+    "id": "ITEM-043",
+    "title": "Pet Carrier Soft",
+    "description": "Stainless steel water fountain that promotes healthy hydration for cats.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Pet Supplies",
+      "Gaming",
+      "Baby"
+    ],
+    "brand": "GameZone",
+    "price": "204.55",
+    "currency": "USD",
+    "sku": "GAM-5503",
+    "stock": 140
+  },
+  {
+    "id": "ITEM-044",
+    "title": "Training Treats Bag",
+    "description": "Smart GPS collar tracker to monitor your pet's location in real-time.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Pet Supplies",
+      "Health"
+    ],
+    "brand": "ProGaming",
+    "price": "1215.92",
+    "currency": "USD",
+    "sku": "PRO-1477",
+    "stock": 246
+  },
+  {
+    "id": "ITEM-045",
+    "title": "Water Bottle Insulated",
+    "description": "Winter-rated sleeping bag rated to -20F with synthetic insulation.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Pet Supplies",
+      "Art Supplies"
+    ],
+    "brand": "ComfortHome",
+    "price": "1313.89",
+    "currency": "USD",
+    "sku": "COM-8953",
+    "stock": 125
+  },
+  {
+    "id": "ITEM-046",
+    "title": "Watch Analog",
+    "description": "14K gold diamond solitaire ring with certified gemstone.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Jewelry",
+      "Grocery"
+    ],
+    "brand": "LuxeJewels",
+    "price": "72.02",
+    "currency": "USD",
+    "sku": "LUX-2465",
+    "stock": 90
+  },
+  {
+    "id": "ITEM-047",
+    "title": "Desk Lamp LED",
+    "description": "Solid oak office desk with spacious work surface and storage drawers.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Pet Supplies"
+    ],
+    "brand": "HealthBoost",
+    "price": "836.51",
+    "currency": "USD",
+    "sku": "HEA-4791",
+    "stock": 61
+  },
+  {
+    "id": "ITEM-048",
+    "title": "Jump Start Battery",
+    "description": "Premium quality seat covers that protect your car's interior with durable fabric.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Outdoor"
+    ],
+    "brand": "HealthBoost",
+    "price": "1286.21",
+    "currency": "USD",
+    "sku": "HEA-7263",
+    "stock": 188
+  },
+  {
+    "id": "ITEM-049",
+    "title": "Massage Gun",
+    "description": "Resistance bands set with color-coded resistance levels for workouts.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Furniture",
+      "Art Supplies"
+    ],
+    "brand": "PetPro",
+    "price": "1488.15",
+    "currency": "USD",
+    "sku": "PET-4507",
+    "stock": 231
+  },
+  {
+    "id": "ITEM-050",
+    "title": "Infant Stroller",
+    "description": "Soft cotton crib bedding set with hypoallergenic materials.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Baby",
+      "Gaming",
+      "Furniture"
+    ],
+    "brand": "ModernStyle",
+    "price": "1023.43",
+    "currency": "USD",
+    "sku": "MOD-1064",
+    "stock": 259
+  },
+  {
+    "id": "ITEM-051",
+    "title": "Pet Carrier Soft",
+    "description": "Double-sided grooming brush for effective deshedding and coat care.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Pet Supplies",
+      "Gaming"
+    ],
+    "brand": "LuxeJewels",
+    "price": "1738.89",
+    "currency": "USD",
+    "sku": "LUX-3601",
+    "stock": 98
+  },
+  {
+    "id": "ITEM-052",
+    "title": "Resistance Bands Set",
+    "description": "Resistance bands set with color-coded resistance levels for workouts.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Grocery",
+      "Pet Supplies"
+    ],
+    "brand": "OutdoorPro",
+    "price": "1740.29",
+    "currency": "USD",
+    "sku": "OUT-7946",
+    "stock": 274
+  },
+  {
+    "id": "ITEM-053",
+    "title": "Almond Butter Creamy",
+    "description": "Cold-pressed extra virgin olive oil with robust fruity flavor.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Grocery",
+      "Art Supplies",
+      "Health"
+    ],
+    "brand": "ComfortHome",
+    "price": "624.64",
+    "currency": "USD",
+    "sku": "COM-4047",
+    "stock": 96
+  },
+  {
+    "id": "ITEM-054",
+    "title": "Windshield Wipers",
+    "description": "Premium quality seat covers that protect your car's interior with durable fabric.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Outdoor"
+    ],
+    "brand": "FreshFarm",
+    "price": "702.96",
+    "currency": "USD",
+    "sku": "FRE-2014",
+    "stock": 12
+  },
+  {
+    "id": "ITEM-055",
+    "title": "Pendant Necklace Silver",
+    "description": "Analog wristwatch with Swiss movement and water-resistant case.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Jewelry",
+      "Outdoor",
+      "Grocery"
+    ],
+    "brand": "PremiumCraft",
+    "price": "1467.41",
+    "currency": "USD",
+    "sku": "PRE-6411",
+    "stock": 226
+  },
+  {
+    "id": "ITEM-056",
+    "title": "Training Treats Bag",
+    "description": "Double-sided grooming brush for effective deshedding and coat care.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Pet Supplies",
+      "Outdoor"
+    ],
+    "brand": "PawsPlus",
+    "price": "1041.96",
+    "currency": "USD",
+    "sku": "PAW-5050",
+    "stock": 256
+  },
+  {
+    "id": "ITEM-057",
+    "title": "Shelving Unit Metal",
+    "description": "Ergonomic office chair with adjustable lumbar support and height.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Grocery"
+    ],
+    "brand": "ModernStyle",
+    "price": "1105.22",
+    "currency": "USD",
+    "sku": "MOD-5138",
+    "stock": 95
+  },
+  {
+    "id": "ITEM-058",
+    "title": "Hiking Backpack 50L",
+    "description": "Winter-rated sleeping bag rated to -20F with synthetic insulation.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Furniture"
+    ],
+    "brand": "ComfortHome",
+    "price": "175.87",
+    "currency": "USD",
+    "sku": "COM-1775",
+    "stock": 154
+  },
+  {
+    "id": "ITEM-059",
+    "title": "Cufflinks Stainless",
+    "description": "Freshwater pearl earrings with secure post and scroll backing.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Jewelry",
+      "Health",
+      "Gaming"
+    ],
+    "brand": "ShineStone",
+    "price": "330.86",
+    "currency": "USD",
+    "sku": "SHI-7998",
+    "stock": 250
+  },
+  {
+    "id": "ITEM-060",
+    "title": "Rope 50ft",
+    "description": "Compact butane stove perfect for backpacking and outdoor cooking.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Grocery",
+      "Gaming"
+    ],
+    "brand": "LuxeJewels",
+    "price": "412.07",
+    "currency": "USD",
+    "sku": "LUX-8132",
+    "stock": 102
+  },
+  {
+    "id": "ITEM-061",
+    "title": "Pendant Necklace Silver",
+    "description": "Genuine leather bracelet with stainless steel magnetic clasp.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Jewelry",
+      "Pet Supplies"
+    ],
+    "brand": "FreshFarm",
+    "price": "1783.27",
+    "currency": "USD",
+    "sku": "FRE-1516",
+    "stock": 161
+  },
+  {
+    "id": "ITEM-062",
+    "title": "Headlamp LED",
+    "description": "Ergonomic hiking backpack with adjustable hip belt for weight distribution.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Gaming",
+      "Grocery"
+    ],
+    "brand": "ModernStyle",
+    "price": "1087.50",
+    "currency": "USD",
+    "sku": "MOD-6322",
+    "stock": 260
+  },
+  {
+    "id": "ITEM-063",
+    "title": "Palette Knives Set",
+    "description": "Professional sketching pencil kit with graphite grades HB through 6B.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Art Supplies",
+      "Health",
+      "Furniture"
+    ],
+    "brand": "PawsPlus",
+    "price": "621.82",
+    "currency": "USD",
+    "sku": "PAW-8798",
+    "stock": 271
+  },
+  {
+    "id": "ITEM-064",
+    "title": "Portable Stove",
+    "description": "Compact butane stove perfect for backpacking and outdoor cooking.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Baby",
+      "Health"
+    ],
+    "brand": "LuxeJewels",
+    "price": "366.31",
+    "currency": "USD",
+    "sku": "LUX-5840",
+    "stock": 28
+  },
+  {
+    "id": "ITEM-065",
+    "title": "Office Desk Wooden",
+    "description": "Five-tier steel bookshelf with weight capacity of 500 pounds.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Automotive"
+    ],
+    "brand": "PawsPlus",
+    "price": "990.12",
+    "currency": "USD",
+    "sku": "PAW-3465",
+    "stock": 149
+  },
+  {
+    "id": "ITEM-066",
+    "title": "Water Bottle Insulated",
+    "description": "Ergonomic hiking backpack with adjustable hip belt for weight distribution.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Baby",
+      "Furniture"
+    ],
+    "brand": "PremiumCraft",
+    "price": "579.86",
+    "currency": "USD",
+    "sku": "PRE-1451",
+    "stock": 259
+  },
+  {
+    "id": "ITEM-067",
+    "title": "Rope 50ft",
+    "description": "Easy-setup camping tent with waterproof coating and ventilation windows.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Jewelry",
+      "Baby"
+    ],
+    "brand": "VitaCore",
+    "price": "1534.14",
+    "currency": "USD",
+    "sku": "VIT-5903",
+    "stock": 37
+  },
+  {
+    "id": "ITEM-068",
+    "title": "Shelving Unit Metal",
+    "description": "Five-tier steel bookshelf with weight capacity of 500 pounds.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Outdoor",
+      "Pet Supplies"
+    ],
+    "brand": "BabyBliss",
+    "price": "821.84",
+    "currency": "USD",
+    "sku": "BAB-7658",
+    "stock": 240
+  },
+  {
+    "id": "ITEM-069",
+    "title": "Ground Pad Foam",
+    "description": "Ergonomic hiking backpack with adjustable hip belt for weight distribution.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Gaming"
+    ],
+    "brand": "BabyBliss",
+    "price": "490.66",
+    "currency": "USD",
+    "sku": "BAB-5058",
+    "stock": 107
+  },
+  {
+    "id": "ITEM-070",
+    "title": "Nightstand",
+    "description": "Modern coffee table with tempered glass top and wooden base.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Grocery"
+    ],
+    "brand": "VitaCore",
+    "price": "1158.71",
+    "currency": "USD",
+    "sku": "VIT-2663",
+    "stock": 5
+  },
+  {
+    "id": "ITEM-071",
+    "title": "Protein Powder Whey",
+    "description": "Adjustable dumbbell set with quick-change weight system.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Outdoor"
+    ],
+    "brand": "HealthBoost",
+    "price": "511.72",
+    "currency": "USD",
+    "sku": "HEA-1793",
+    "stock": 269
+  },
+  {
+    "id": "ITEM-072",
+    "title": "Coffee Table",
+    "description": "Modern coffee table with tempered glass top and wooden base.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Outdoor",
+      "Pet Supplies"
+    ],
+    "brand": "NatureNest",
+    "price": "1896.43",
+    "currency": "USD",
+    "sku": "NAT-3609",
+    "stock": 12
+  },
+  {
+    "id": "ITEM-073",
+    "title": "Honey Raw Pure",
+    "description": "Raw unfiltered honey harvested from local wildflower meadows.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Grocery",
+      "Baby"
+    ],
+    "brand": "BabyBliss",
+    "price": "1065.63",
+    "currency": "USD",
+    "sku": "BAB-1657",
+    "stock": 3
+  },
+  {
+    "id": "ITEM-074",
+    "title": "Parking Sensor",
+    "description": "Digital tire pressure gauge with LED backlight for accurate readings.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Art Supplies",
+      "Grocery"
+    ],
+    "brand": "FreshFarm",
+    "price": "604.11",
+    "currency": "USD",
+    "sku": "FRE-3861",
+    "stock": 243
+  },
+  {
+    "id": "ITEM-075",
+    "title": "LED Headlights",
+    "description": "Digital tire pressure gauge with LED backlight for accurate readings.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Baby"
+    ],
+    "brand": "GameZone",
+    "price": "1465.84",
+    "currency": "USD",
+    "sku": "GAM-9017",
+    "stock": 299
+  },
+  {
+    "id": "ITEM-076",
+    "title": "Canvas Pad 9x12",
+    "description": "Synthetic brush set with multiple sizes for detailed and broad strokes.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Art Supplies",
+      "Health",
+      "Baby"
+    ],
+    "brand": "HealthBoost",
+    "price": "469.14",
+    "currency": "USD",
+    "sku": "HEA-2176",
+    "stock": 67
+  },
+  {
+    "id": "ITEM-077",
+    "title": "Parking Sensor",
+    "description": "Premium quality seat covers that protect your car's interior with durable fabric.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Baby"
+    ],
+    "brand": "ShineStone",
+    "price": "1526.69",
+    "currency": "USD",
+    "sku": "SHI-8979",
+    "stock": 128
+  },
+  {
+    "id": "ITEM-078",
+    "title": "Almond Butter Creamy",
+    "description": "Pure maple syrup Grade A amber collected from sustainably managed forests.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Grocery",
+      "Outdoor",
+      "Gaming"
+    ],
+    "brand": "TechFlow",
+    "price": "1001.12",
+    "currency": "USD",
+    "sku": "TEC-1951",
+    "stock": 176
+  },
+  {
+    "id": "ITEM-079",
+    "title": "Dog Leash Retractable",
+    "description": "Orthopedic memory foam bed designed for joint support and comfort.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Pet Supplies",
+      "Furniture"
+    ],
+    "brand": "FreshFarm",
+    "price": "1700.03",
+    "currency": "USD",
+    "sku": "FRE-8834",
+    "stock": 14
+  },
+  {
+    "id": "ITEM-080",
+    "title": "Desk Chair Ergonomic",
+    "description": "Ergonomic office chair with adjustable lumbar support and height.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Automotive"
+    ],
+    "brand": "ShineStone",
+    "price": "1083.01",
+    "currency": "USD",
+    "sku": "SHI-4366",
+    "stock": 81
+  },
+  {
+    "id": "ITEM-081",
+    "title": "Tire Pressure Gauge",
+    "description": "1080P dashcam with night vision recording and G-sensor protection.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Furniture",
+      "Grocery"
+    ],
+    "brand": "PremiumCraft",
+    "price": "1125.51",
+    "currency": "USD",
+    "sku": "PRE-1171",
+    "stock": 106
+  },
+  {
+    "id": "ITEM-082",
+    "title": "Bread Mix Bundle",
+    "description": "Cold-pressed extra virgin olive oil with robust fruity flavor.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Grocery",
+      "Pet Supplies",
+      "Jewelry"
+    ],
+    "brand": "ModernStyle",
+    "price": "1093.92",
+    "currency": "USD",
+    "sku": "MOD-3861",
+    "stock": 275
+  },
+  {
+    "id": "ITEM-083",
+    "title": "Desk Lamp LED",
+    "description": "Solid oak office desk with spacious work surface and storage drawers.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Health",
+      "Art Supplies"
+    ],
+    "brand": "PetPro",
+    "price": "781.80",
+    "currency": "USD",
+    "sku": "PET-8661",
+    "stock": 260
+  },
+  {
+    "id": "ITEM-084",
+    "title": "Crib Bedding Set",
+    "description": "Lightweight stroller with all-terrain wheels and full recline.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Baby",
+      "Gaming",
+      "Furniture"
+    ],
+    "brand": "PawsPlus",
+    "price": "1702.40",
+    "currency": "USD",
+    "sku": "PAW-6673",
+    "stock": 246
+  },
+  {
+    "id": "ITEM-085",
+    "title": "Controller Wireless",
+    "description": "Mechanical keyboard with Cherry switches and programmable macro keys.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Gaming",
+      "Automotive"
+    ],
+    "brand": "EcoTech",
+    "price": "275.14",
+    "currency": "USD",
+    "sku": "ECO-5939",
+    "stock": 114
+  },
+  {
+    "id": "ITEM-086",
+    "title": "Pet Carrier Soft",
+    "description": "Orthopedic memory foam bed designed for joint support and comfort.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Pet Supplies",
+      "Gaming"
+    ],
+    "brand": "SpeedRide",
+    "price": "480.15",
+    "currency": "USD",
+    "sku": "SPE-1979",
+    "stock": 19
+  },
+  {
+    "id": "ITEM-087",
+    "title": "Sleeping Bag Winter",
+    "description": "Winter-rated sleeping bag rated to -20F with synthetic insulation.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Jewelry"
+    ],
+    "brand": "GameZone",
+    "price": "645.24",
+    "currency": "USD",
+    "sku": "GAM-8474",
+    "stock": 117
+  },
+  {
+    "id": "ITEM-088",
+    "title": "Mechanical Keyboard",
+    "description": "Ergonomic racing-style chair with lumbar support and height adjustment.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Gaming",
+      "Jewelry",
+      "Furniture"
+    ],
+    "brand": "ProGaming",
+    "price": "1864.72",
+    "currency": "USD",
+    "sku": "PRO-4819",
+    "stock": 272
+  },
+  {
+    "id": "ITEM-089",
+    "title": "VR Headset",
+    "description": "Curved 27-inch gaming monitor with 144Hz refresh rate.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Gaming",
+      "Grocery"
+    ],
+    "brand": "PawsPlus",
+    "price": "605.91",
+    "currency": "USD",
+    "sku": "PAW-1155",
+    "stock": 152
+  },
+  {
+    "id": "ITEM-090",
+    "title": "Acrylic Paint Tubes",
+    "description": "Heavyweight cotton canvas pad ideal for oils, acrylics, and mixed media.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Art Supplies",
+      "Baby",
+      "Pet Supplies"
+    ],
+    "brand": "PremiumCraft",
+    "price": "1651.88",
+    "currency": "USD",
+    "sku": "PRE-8989",
+    "stock": 60
+  },
+  {
+    "id": "ITEM-091",
+    "title": "Fitness Tracker",
+    "description": "Adjustable dumbbell set with quick-change weight system.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Outdoor"
+    ],
+    "brand": "GameZone",
+    "price": "1076.67",
+    "currency": "USD",
+    "sku": "GAM-3195",
+    "stock": 292
+  },
+  {
+    "id": "ITEM-092",
+    "title": "Brushes Professional Set",
+    "description": "Professional sketching pencil kit with graphite grades HB through 6B.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Art Supplies",
+      "Outdoor"
+    ],
+    "brand": "PremiumCraft",
+    "price": "625.85",
+    "currency": "USD",
+    "sku": "PRE-5210",
+    "stock": 114
+  },
+  {
+    "id": "ITEM-093",
+    "title": "Nightstand",
+    "description": "Wooden nightstand with drawer and open shelf for bedside storage.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Baby",
+      "Art Supplies"
+    ],
+    "brand": "PetPro",
+    "price": "1649.69",
+    "currency": "USD",
+    "sku": "PET-7149",
+    "stock": 293
+  },
+  {
+    "id": "ITEM-094",
+    "title": "Camping Tent 4-Person",
+    "description": "Compact butane stove perfect for backpacking and outdoor cooking.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Outdoor",
+      "Furniture",
+      "Grocery"
+    ],
+    "brand": "GameZone",
+    "price": "1135.34",
+    "currency": "USD",
+    "sku": "GAM-1980",
+    "stock": 195
+  },
+  {
+    "id": "ITEM-095",
+    "title": "Color Markers 120",
+    "description": "24-color watercolor paint set with high pigment concentration.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Art Supplies",
+      "Automotive",
+      "Baby"
+    ],
+    "brand": "CreativeArt",
+    "price": "1046.65",
+    "currency": "USD",
+    "sku": "CRE-2148",
+    "stock": 58
+  },
+  {
+    "id": "ITEM-096",
+    "title": "Foam Roller",
+    "description": "Adjustable dumbbell set with quick-change weight system.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Health",
+      "Pet Supplies",
+      "Grocery"
+    ],
+    "brand": "TrailWay",
+    "price": "1927.26",
+    "currency": "USD",
+    "sku": "TRA-4033",
+    "stock": 139
+  },
+  {
+    "id": "ITEM-097",
+    "title": "Pet Grooming Brush",
+    "description": "Stainless steel water fountain that promotes healthy hydration for cats.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Pet Supplies",
+      "Outdoor",
+      "Furniture"
+    ],
+    "brand": "NatureNest",
+    "price": "1981.34",
+    "currency": "USD",
+    "sku": "NAT-1264",
+    "stock": 272
+  },
+  {
+    "id": "ITEM-098",
+    "title": "Nightstand",
+    "description": "Wooden nightstand with drawer and open shelf for bedside storage.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Furniture",
+      "Baby",
+      "Outdoor"
+    ],
+    "brand": "TechFlow",
+    "price": "1138.96",
+    "currency": "USD",
+    "sku": "TEC-3838",
+    "stock": 282
+  },
+  {
+    "id": "ITEM-099",
+    "title": "Game Pass Card",
+    "description": "Wireless gaming headset with surround sound and noise-canceling microphone.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Gaming",
+      "Pet Supplies",
+      "Health"
+    ],
+    "brand": "VitaCore",
+    "price": "1291.82",
+    "currency": "USD",
+    "sku": "VIT-8823",
+    "stock": 21
+  },
+  {
+    "id": "ITEM-100",
+    "title": "Parking Sensor",
+    "description": "1080P dashcam with night vision recording and G-sensor protection.",
+    "link": "empty",
+    "image_link": "empty",
+    "radius": 0,
+    "categories": [
+      "Automotive",
+      "Art Supplies",
+      "Grocery"
+    ],
+    "brand": "HealthBoost",
+    "price": "1860.32",
+    "currency": "USD",
+    "sku": "HEA-2527",
+    "stock": 204
+  }
+]
