@@ -6,68 +6,3597 @@
         "link": "empty",
         "image_link": "empty",
         "radius": 0,
-        "categories": ["Electronics", "Computers", "Laptops"],
+        "categories": [
+            "Electronics",
+            "Computers",
+            "Laptops"
+        ],
         "brand": "AuroraTech",
         "price": "1199.99",
         "currency": "USD",
         "sku": "AUR-LAP15",
-        "stock": 25
+        "stock": 327
+    },
+    {
+        "id": "PROD-002",
+        "title": "SwiftEdge Wireless Mouse",
+        "description": "Ergonomic wireless mouse with precision tracking and silent clicks.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Accessories",
+            "Peripherals"
+        ],
+        "brand": "SwiftEdge",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "SWE-WMOUSE",
+        "stock": 57
     },
     {
         "id": "PROD-003",
-        "title": "Terra Ceramic Mug",
-        "description": "A hand-glazed 12oz ceramic mug available in multiple earth-tone colors.",
+        "title": "ZenithAudio Soundbar 300",
+        "description": "Premium soundbar delivering immersive surround sound for your living room.",
         "link": "empty",
         "image_link": "empty",
         "radius": 0,
-        "categories": ["Home", "Kitchen", "Drinkware"],
-        "brand": "TerraCraft",
-        "price": "14.50",
+        "categories": [
+            "Electronics",
+            "Audio",
+            "Home Theater"
+        ],
+        "brand": "ZenithAudio",
+        "price": "249.99",
         "currency": "USD",
-        "sku": "TERRA-MUG12",
-        "stock": 120
+        "sku": "ZEN-SB300",
+        "stock": 12
     },
     {
         "id": "PROD-004",
-        "title": "Evergreen Yoga Mat",
-        "description": "Eco-friendly, non-slip yoga mat made from natural rubber.",
+        "title": "BrightSpark 4K Monitor",
+        "description": "Ultra-sharp 27-inch 4K monitor with HDR support and adjustable stand.",
         "link": "empty",
         "image_link": "empty",
         "radius": 0,
-        "categories": ["Fitness", "Yoga", "Accessories"],
-        "brand": "Evergreen",
-        "price": "59.99",
+        "categories": [
+            "Electronics",
+            "Monitors",
+            "Displays"
+        ],
+        "brand": "BrightSpark",
+        "price": "449.99",
         "currency": "USD",
-        "sku": "EVER-YMAT",
-        "stock": 60
+        "sku": "BRS-4KMON",
+        "stock": 379
     },
     {
         "id": "PROD-005",
-        "title": "Lumen Smart Lamp",
-        "description": "Smart LED desk lamp with touch controls and voice assistant integration.",
+        "title": "FrostByte Gaming Keyboard",
+        "description": "Mechanical gaming keyboard with customizable RGB lighting and macro keys.",
         "link": "empty",
         "image_link": "empty",
         "radius": 0,
-        "categories": ["Home", "Lighting", "Smart Devices"],
-        "brand": "Lumen",
-        "price": "89.95",
+        "categories": [
+            "Electronics",
+            "Gaming",
+            "Keyboards"
+        ],
+        "brand": "FrostByte",
+        "price": "89.99",
         "currency": "USD",
-        "sku": "LUMEN-SMART",
-        "stock": 45
+        "sku": "FRB-GKEYB",
+        "stock": 140
     },
     {
         "id": "PROD-006",
-        "title": "Atlas Travel Backpack",
-        "description": "Durable, water-resistant backpack with 30L capacity and laptop compartment.",
+        "title": "ThunderBolt USB-C Hub",
+        "description": "Compact USB-C hub with 7 ports including HDMI and ethernet.",
         "link": "empty",
         "image_link": "empty",
         "radius": 0,
-        "categories": ["Travel", "Bags", "Backpacks"],
-        "brand": "Atlas",
-        "price": "129.00",
+        "categories": [
+            "Electronics",
+            "Accessories",
+            "Hubs"
+        ],
+        "brand": "ThunderBolt",
+        "price": "59.99",
         "currency": "USD",
-        "sku": "ATLAS-TRAVEL",
+        "sku": "THB-USBHUB",
+        "stock": 125
+    },
+    {
+        "id": "PROD-007",
+        "title": "NightOwl Webcam Pro",
+        "description": "Full HD webcam with auto-focus and built-in noise-canceling microphone.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Accessories",
+            "Cameras"
+        ],
+        "brand": "NightOwl",
+        "price": "79.99",
+        "currency": "USD",
+        "sku": "NOW-WCPRO",
+        "stock": 114
+    },
+    {
+        "id": "PROD-008",
+        "title": "LunarWave Bluetooth Speaker",
+        "description": "Portable waterproof Bluetooth speaker with 20-hour battery life.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Audio",
+            "Speakers"
+        ],
+        "brand": "LunarWave",
+        "price": "64.99",
+        "currency": "USD",
+        "sku": "LNW-BTSPK",
+        "stock": 71
+    },
+    {
+        "id": "PROD-009",
+        "title": "CrystalClear Noise-Canceling Headphones",
+        "description": "Over-ear headphones with active noise cancellation and plush ear cushions.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Audio",
+            "Headphones"
+        ],
+        "brand": "CrystalClear",
+        "price": "199.99",
+        "currency": "USD",
+        "sku": "CRC-NCHDP",
+        "stock": 377
+    },
+    {
+        "id": "PROD-010",
+        "title": "SwiftEdge Portable SSD 1TB",
+        "description": "Blazing-fast portable SSD with shock-resistant aluminum casing.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Storage",
+            "Drives"
+        ],
+        "brand": "SwiftEdge",
+        "price": "109.99",
+        "currency": "USD",
+        "sku": "SWE-SSD1T",
+        "stock": 52
+    },
+    {
+        "id": "PROD-011",
+        "title": "AuroraTech Tablet Pro 11",
+        "description": "Slim 11-inch tablet with stylus support and all-day battery.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Tablets",
+            "Computers"
+        ],
+        "brand": "AuroraTech",
+        "price": "599.99",
+        "currency": "USD",
+        "sku": "AUR-TAB11",
+        "stock": 346
+    },
+    {
+        "id": "PROD-012",
+        "title": "FrostByte Gaming Mouse",
+        "description": "High-DPI gaming mouse with adjustable weights and programmable buttons.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Gaming",
+            "Mice"
+        ],
+        "brand": "FrostByte",
+        "price": "54.99",
+        "currency": "USD",
+        "sku": "FRB-GMOUS",
+        "stock": 379
+    },
+    {
+        "id": "PROD-013",
+        "title": "BrightSpark LED Desk Lamp",
+        "description": "Adjustable LED desk lamp with touch controls and USB charging port.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Lighting",
+            "Office"
+        ],
+        "brand": "BrightSpark",
+        "price": "39.99",
+        "currency": "USD",
+        "sku": "BRS-DLAMP",
+        "stock": 456
+    },
+    {
+        "id": "PROD-014",
+        "title": "ThunderBolt Power Bank 20000",
+        "description": "High-capacity power bank with fast charging for phones and tablets.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Accessories",
+            "Chargers"
+        ],
+        "brand": "ThunderBolt",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "THB-PB20K",
+        "stock": 279
+    },
+    {
+        "id": "PROD-015",
+        "title": "ZenithAudio Turntable Classic",
+        "description": "Belt-driven turntable with built-in preamp and warm analog sound.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Audio",
+            "Turntables"
+        ],
+        "brand": "ZenithAudio",
+        "price": "179.99",
+        "currency": "USD",
+        "sku": "ZEN-TRNTB",
+        "stock": 44
+    },
+    {
+        "id": "PROD-016",
+        "title": "CozyNest Memory Foam Pillow",
+        "description": "Contoured memory foam pillow that supports your neck for restful sleep.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Bedding",
+            "Pillows"
+        ],
+        "brand": "CozyNest",
+        "price": "49.99",
+        "currency": "USD",
+        "sku": "CZN-MFPIL",
+        "stock": 302
+    },
+    {
+        "id": "PROD-017",
+        "title": "HomeCraft Scented Candle Set",
+        "description": "Set of three hand-poured soy candles in lavender, vanilla, and cedar.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Decor",
+            "Candles"
+        ],
+        "brand": "HomeCraft",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "HMC-SCNDL",
+        "stock": 216
+    },
+    {
+        "id": "PROD-018",
+        "title": "CozyNest Weighted Blanket",
+        "description": "Soft 15-pound weighted blanket designed to reduce stress and improve sleep.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Bedding",
+            "Blankets"
+        ],
+        "brand": "CozyNest",
+        "price": "79.99",
+        "currency": "USD",
+        "sku": "CZN-WTBLK",
+        "stock": 16
+    },
+    {
+        "id": "PROD-019",
+        "title": "HomeCraft Wall Clock",
+        "description": "Minimalist wall clock with silent quartz movement and wooden frame.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Decor",
+            "Clocks"
+        ],
+        "brand": "HomeCraft",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "HMC-WCLCK",
+        "stock": 15
+    },
+    {
+        "id": "PROD-020",
+        "title": "AquaPure Humidifier",
+        "description": "Whisper-quiet ultrasonic humidifier with a 4-liter tank for large rooms.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Appliances",
+            "Air Quality"
+        ],
+        "brand": "AquaPure",
+        "price": "54.99",
+        "currency": "USD",
+        "sku": "AQP-HUMID",
+        "stock": 47
+    },
+    {
+        "id": "PROD-021",
+        "title": "CozyNest Throw Blanket",
+        "description": "Ultra-soft microfiber throw blanket perfect for cozy evenings on the couch.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Bedding",
+            "Throws"
+        ],
+        "brand": "CozyNest",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "CZN-THRBL",
+        "stock": 111
+    },
+    {
+        "id": "PROD-022",
+        "title": "HomeCraft Picture Frame Set",
+        "description": "Gallery-style set of five wooden picture frames in assorted sizes.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Decor",
+            "Frames"
+        ],
+        "brand": "HomeCraft",
+        "price": "39.99",
+        "currency": "USD",
+        "sku": "HMC-PFRMS",
+        "stock": 119
+    },
+    {
+        "id": "PROD-023",
+        "title": "AquaPure Air Purifier",
+        "description": "HEPA air purifier that removes 99.97 percent of airborne particles.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Appliances",
+            "Air Quality"
+        ],
+        "brand": "AquaPure",
+        "price": "149.99",
+        "currency": "USD",
+        "sku": "AQP-AIRPR",
+        "stock": 258
+    },
+    {
+        "id": "PROD-024",
+        "title": "CozyNest Blackout Curtains",
+        "description": "Thermal insulated blackout curtains that block light and reduce noise.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Decor",
+            "Curtains"
+        ],
+        "brand": "CozyNest",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "CZN-BKCRT",
+        "stock": 308
+    },
+    {
+        "id": "PROD-025",
+        "title": "SilverLine Smart Thermostat",
+        "description": "Wi-Fi enabled smart thermostat with energy-saving scheduling features.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Smart Home",
+            "Climate"
+        ],
+        "brand": "SilverLine",
+        "price": "129.99",
+        "currency": "USD",
+        "sku": "SVL-STHERM",
+        "stock": 13
+    },
+    {
+        "id": "PROD-026",
+        "title": "HomeCraft Essential Oil Diffuser",
+        "description": "Ceramic essential oil diffuser with color-changing LED mood lighting.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Wellness",
+            "Diffusers"
+        ],
+        "brand": "HomeCraft",
+        "price": "32.99",
+        "currency": "USD",
+        "sku": "HMC-OILDIF",
+        "stock": 287
+    },
+    {
+        "id": "PROD-027",
+        "title": "SilverLine Smart Plug 4-Pack",
+        "description": "Wi-Fi smart plugs that let you control devices remotely via app.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Smart Home",
+            "Plugs"
+        ],
+        "brand": "SilverLine",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "SVL-SPLG4",
+        "stock": 101
+    },
+    {
+        "id": "PROD-028",
+        "title": "CozyNest Area Rug 5x7",
+        "description": "Soft shag area rug with non-slip backing in a neutral tone.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Decor",
+            "Rugs"
+        ],
+        "brand": "CozyNest",
+        "price": "89.99",
+        "currency": "USD",
+        "sku": "CZN-ARUG5",
+        "stock": 366
+    },
+    {
+        "id": "PROD-029",
+        "title": "NovaBrew Coffee Maker",
+        "description": "Programmable 12-cup coffee maker with thermal carafe and brew-strength selector.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Appliances",
+            "Coffee"
+        ],
+        "brand": "NovaBrew",
+        "price": "89.99",
+        "currency": "USD",
+        "sku": "NVB-CFMKR",
+        "stock": 332
+    },
+    {
+        "id": "PROD-030",
+        "title": "MapleCraft Cutting Board",
+        "description": "Large end-grain maple cutting board that is gentle on knife edges.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Tools",
+            "Cutting Boards"
+        ],
+        "brand": "MapleCraft",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "MPC-CUTBD",
+        "stock": 359
+    },
+    {
+        "id": "PROD-031",
+        "title": "NovaBrew Espresso Machine",
+        "description": "Compact espresso machine with 15-bar pump and built-in milk frother.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Appliances",
+            "Coffee"
+        ],
+        "brand": "NovaBrew",
+        "price": "299.99",
+        "currency": "USD",
+        "sku": "NVB-ESPMN",
+        "stock": 279
+    },
+    {
+        "id": "PROD-032",
+        "title": "IronClad Cast Iron Skillet",
+        "description": "Pre-seasoned 12-inch cast iron skillet for perfect searing and baking.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Cookware",
+            "Skillets"
+        ],
+        "brand": "IronClad",
+        "price": "39.99",
+        "currency": "USD",
+        "sku": "IRC-CISKL",
+        "stock": 214
+    },
+    {
+        "id": "PROD-033",
+        "title": "SteelForge Chef Knife 8-Inch",
+        "description": "Forged high-carbon steel chef knife with a comfortable ergonomic handle.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Knives",
+            "Cutlery"
+        ],
+        "brand": "SteelForge",
+        "price": "69.99",
+        "currency": "USD",
+        "sku": "STF-CHFKN",
+        "stock": 112
+    },
+    {
+        "id": "PROD-034",
+        "title": "MapleCraft Spice Rack",
+        "description": "Rotating bamboo spice rack that holds 20 jars and saves counter space.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Organization",
+            "Storage"
+        ],
+        "brand": "MapleCraft",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "MPC-SPRCK",
+        "stock": 229
+    },
+    {
+        "id": "PROD-035",
+        "title": "NovaBrew Electric Kettle",
+        "description": "Rapid-boil stainless steel electric kettle with temperature presets.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Appliances",
+            "Kettles"
+        ],
+        "brand": "NovaBrew",
+        "price": "49.99",
+        "currency": "USD",
+        "sku": "NVB-ELKTL",
+        "stock": 301
+    },
+    {
+        "id": "PROD-036",
+        "title": "IronClad Dutch Oven",
+        "description": "Enameled cast iron Dutch oven perfect for soups, stews, and bread.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Cookware",
+            "Pots"
+        ],
+        "brand": "IronClad",
+        "price": "64.99",
+        "currency": "USD",
+        "sku": "IRC-DTOVN",
+        "stock": 142
+    },
+    {
+        "id": "PROD-037",
+        "title": "SteelForge Knife Block Set",
+        "description": "Six-piece stainless steel knife set in a sleek walnut block.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Knives",
+            "Sets"
+        ],
+        "brand": "SteelForge",
+        "price": "129.99",
+        "currency": "USD",
+        "sku": "STF-KNBST",
+        "stock": 414
+    },
+    {
+        "id": "PROD-038",
+        "title": "MapleCraft Mixing Bowl Set",
+        "description": "Nesting set of five bamboo fiber mixing bowls with pour spouts.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Tools",
+            "Bowls"
+        ],
+        "brand": "MapleCraft",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "MPC-MXBWL",
+        "stock": 445
+    },
+    {
+        "id": "PROD-039",
+        "title": "HomeCraft Silicone Utensil Set",
+        "description": "Heat-resistant 10-piece silicone utensil set with wooden handles.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Tools",
+            "Utensils"
+        ],
+        "brand": "HomeCraft",
+        "price": "27.99",
+        "currency": "USD",
+        "sku": "HMC-SLUTS",
+        "stock": 3
+    },
+    {
+        "id": "PROD-040",
+        "title": "NovaBrew Cold Brew Pitcher",
+        "description": "Glass cold brew pitcher with fine mesh filter for smooth coffee.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Appliances",
+            "Coffee"
+        ],
+        "brand": "NovaBrew",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "NVB-CLBRW",
+        "stock": 388
+    },
+    {
+        "id": "PROD-041",
+        "title": "VitalFit Yoga Mat",
+        "description": "Non-slip eco-friendly yoga mat with alignment lines and carrying strap.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Yoga",
+            "Mats"
+        ],
+        "brand": "VitalFit",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "VTF-YGMAT",
+        "stock": 412
+    },
+    {
+        "id": "PROD-042",
+        "title": "PeakGear Adjustable Dumbbells",
+        "description": "Space-saving adjustable dumbbells ranging from 5 to 52.5 pounds each.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Weights",
+            "Strength"
+        ],
+        "brand": "PeakGear",
+        "price": "349.99",
+        "currency": "USD",
+        "sku": "PKG-ADJDB",
+        "stock": 81
+    },
+    {
+        "id": "PROD-043",
+        "title": "VitalFit Resistance Bands Set",
+        "description": "Set of five resistance bands with varying tensions for full-body workouts.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Accessories",
+            "Bands"
+        ],
+        "brand": "VitalFit",
+        "price": "19.99",
+        "currency": "USD",
+        "sku": "VTF-RSBND",
+        "stock": 357
+    },
+    {
+        "id": "PROD-044",
+        "title": "PeakGear Pull-Up Bar",
+        "description": "Doorway pull-up bar with padded grips and multiple grip positions.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Equipment",
+            "Bars"
+        ],
+        "brand": "PeakGear",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "PKG-PULBR",
+        "stock": 216
+    },
+    {
+        "id": "PROD-045",
+        "title": "VitalFit Foam Roller",
+        "description": "High-density foam roller for deep tissue massage and muscle recovery.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Recovery",
+            "Rollers"
+        ],
+        "brand": "VitalFit",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "VTF-FMRLR",
+        "stock": 174
+    },
+    {
+        "id": "PROD-046",
+        "title": "PeakGear Kettlebell 25lb",
+        "description": "Vinyl-coated kettlebell with a wide handle for comfortable swings.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Weights",
+            "Kettlebells"
+        ],
+        "brand": "PeakGear",
+        "price": "39.99",
+        "currency": "USD",
+        "sku": "PKG-KB25L",
+        "stock": 142
+    },
+    {
+        "id": "PROD-047",
+        "title": "VitalFit Jump Rope",
+        "description": "Speed jump rope with ball bearings and adjustable cable length.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Cardio",
+            "Jump Ropes"
+        ],
+        "brand": "VitalFit",
+        "price": "14.99",
+        "currency": "USD",
+        "sku": "VTF-JMPRP",
+        "stock": 79
+    },
+    {
+        "id": "PROD-048",
+        "title": "PeakGear Weight Bench",
+        "description": "Flat and incline adjustable weight bench with sturdy steel frame.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Equipment",
+            "Benches"
+        ],
+        "brand": "PeakGear",
+        "price": "199.99",
+        "currency": "USD",
+        "sku": "PKG-WTBCH",
+        "stock": 110
+    },
+    {
+        "id": "PROD-049",
+        "title": "VitalFit Exercise Ball",
+        "description": "Anti-burst exercise ball for core workouts, balance, and stretching.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Accessories",
+            "Balls"
+        ],
+        "brand": "VitalFit",
+        "price": "22.99",
+        "currency": "USD",
+        "sku": "VTF-EXBAL",
+        "stock": 490
+    },
+    {
+        "id": "PROD-050",
+        "title": "PeakGear Battle Ropes",
+        "description": "Heavy-duty 30-foot battle ropes for intense cardio and strength training.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Equipment",
+            "Ropes"
+        ],
+        "brand": "PeakGear",
+        "price": "59.99",
+        "currency": "USD",
+        "sku": "PKG-BTRPS",
+        "stock": 390
+    },
+    {
+        "id": "PROD-051",
+        "title": "TrailBound Carry-On Suitcase",
+        "description": "Hardshell spinner carry-on suitcase that fits in most overhead bins.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Luggage",
+            "Suitcases"
+        ],
+        "brand": "TrailBound",
+        "price": "129.99",
+        "currency": "USD",
+        "sku": "TRB-COSCS",
+        "stock": 172
+    },
+    {
+        "id": "PROD-052",
+        "title": "TrailBound Travel Backpack 40L",
+        "description": "Expandable 40-liter travel backpack with laptop compartment and rain cover.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Bags",
+            "Backpacks"
+        ],
+        "brand": "TrailBound",
+        "price": "89.99",
+        "currency": "USD",
+        "sku": "TRB-TVBP4",
+        "stock": 52
+    },
+    {
+        "id": "PROD-053",
+        "title": "OceanBreeze Travel Neck Pillow",
+        "description": "Memory foam travel neck pillow with snap closure and washable cover.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Accessories",
+            "Pillows"
+        ],
+        "brand": "OceanBreeze",
+        "price": "19.99",
+        "currency": "USD",
+        "sku": "OCB-TNKPL",
+        "stock": 47
+    },
+    {
+        "id": "PROD-054",
+        "title": "TrailBound Packing Cube Set",
+        "description": "Set of six lightweight packing cubes in assorted sizes for organized travel.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Organization",
+            "Cubes"
+        ],
+        "brand": "TrailBound",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "TRB-PKCBS",
+        "stock": 194
+    },
+    {
+        "id": "PROD-055",
+        "title": "OceanBreeze Luggage Scale",
+        "description": "Compact digital luggage scale to avoid overweight baggage fees.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Accessories",
+            "Scales"
+        ],
+        "brand": "OceanBreeze",
+        "price": "12.99",
+        "currency": "USD",
+        "sku": "OCB-LGSCL",
+        "stock": 49
+    },
+    {
+        "id": "PROD-056",
+        "title": "TrailBound Toiletry Bag",
+        "description": "Water-resistant hanging toiletry bag with multiple compartments.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Bags",
+            "Toiletry"
+        ],
+        "brand": "TrailBound",
+        "price": "21.99",
+        "currency": "USD",
+        "sku": "TRB-TLBAG",
+        "stock": 183
+    },
+    {
+        "id": "PROD-057",
+        "title": "OceanBreeze Passport Wallet",
+        "description": "RFID-blocking leather passport wallet with card slots and pen holder.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Accessories",
+            "Wallets"
+        ],
+        "brand": "OceanBreeze",
+        "price": "18.99",
+        "currency": "USD",
+        "sku": "OCB-PSWLT",
+        "stock": 433
+    },
+    {
+        "id": "PROD-058",
+        "title": "TrailBound Duffel Bag 60L",
+        "description": "Durable 60-liter duffel bag with backpack straps and waterproof base.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Bags",
+            "Duffels"
+        ],
+        "brand": "TrailBound",
+        "price": "69.99",
+        "currency": "USD",
+        "sku": "TRB-DFL60",
+        "stock": 176
+    },
+    {
+        "id": "PROD-059",
+        "title": "UrbanPulse Slim Fit Jeans",
+        "description": "Classic slim fit jeans with stretch denim for all-day comfort.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Pants",
+            "Jeans"
+        ],
+        "brand": "UrbanPulse",
+        "price": "59.99",
+        "currency": "USD",
+        "sku": "URP-SLMJN",
+        "stock": 309
+    },
+    {
+        "id": "PROD-060",
+        "title": "UrbanPulse Cotton T-Shirt",
+        "description": "Soft ring-spun cotton crew neck t-shirt available in 12 colors.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Tops",
+            "T-Shirts"
+        ],
+        "brand": "UrbanPulse",
+        "price": "19.99",
+        "currency": "USD",
+        "sku": "URP-CTTSH",
+        "stock": 135
+    },
+    {
+        "id": "PROD-061",
+        "title": "WildTrail Waterproof Jacket",
+        "description": "Lightweight waterproof jacket with sealed seams and packable design.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Outerwear",
+            "Jackets"
+        ],
+        "brand": "WildTrail",
+        "price": "109.99",
+        "currency": "USD",
+        "sku": "WLT-WPJKT",
+        "stock": 413
+    },
+    {
+        "id": "PROD-062",
+        "title": "UrbanPulse Hoodie",
+        "description": "Heavyweight fleece hoodie with kangaroo pocket and ribbed cuffs.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Tops",
+            "Hoodies"
+        ],
+        "brand": "UrbanPulse",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "URP-HODIE",
+        "stock": 22
+    },
+    {
+        "id": "PROD-063",
+        "title": "WildTrail Hiking Boots",
+        "description": "Waterproof mid-cut hiking boots with Vibram soles and ankle support.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Footwear",
+            "Boots"
+        ],
+        "brand": "WildTrail",
+        "price": "149.99",
+        "currency": "USD",
+        "sku": "WLT-HKBTS",
+        "stock": 373
+    },
+    {
+        "id": "PROD-064",
+        "title": "VelvetTouch Cashmere Scarf",
+        "description": "Luxuriously soft pure cashmere scarf in a timeless herringbone pattern.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Accessories",
+            "Scarves"
+        ],
+        "brand": "VelvetTouch",
+        "price": "89.99",
+        "currency": "USD",
+        "sku": "VLT-CSSRF",
+        "stock": 235
+    },
+    {
+        "id": "PROD-065",
+        "title": "UrbanPulse Chino Shorts",
+        "description": "Comfortable stretch chino shorts with a clean flat-front silhouette.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Pants",
+            "Shorts"
+        ],
+        "brand": "UrbanPulse",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "URP-CHSRT",
+        "stock": 274
+    },
+    {
+        "id": "PROD-066",
+        "title": "WildTrail Fleece Vest",
+        "description": "Midweight fleece vest with zippered pockets for layering on cool days.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Outerwear",
+            "Vests"
+        ],
+        "brand": "WildTrail",
+        "price": "54.99",
+        "currency": "USD",
+        "sku": "WLT-FLVST",
+        "stock": 63
+    },
+    {
+        "id": "PROD-067",
+        "title": "VelvetTouch Silk Tie",
+        "description": "Hand-finished silk tie with a subtle geometric pattern for formal wear.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Accessories",
+            "Ties"
+        ],
+        "brand": "VelvetTouch",
+        "price": "49.99",
+        "currency": "USD",
+        "sku": "VLT-SLKTIE",
+        "stock": 498
+    },
+    {
+        "id": "PROD-068",
+        "title": "UrbanPulse Linen Shirt",
+        "description": "Breathable linen button-down shirt ideal for warm weather.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Tops",
+            "Shirts"
+        ],
+        "brand": "UrbanPulse",
+        "price": "54.99",
+        "currency": "USD",
+        "sku": "URP-LNSHRT",
+        "stock": 472
+    },
+    {
+        "id": "PROD-069",
+        "title": "CloudNine Ergonomic Chair",
+        "description": "Fully adjustable ergonomic office chair with lumbar support and mesh back.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Furniture",
+            "Chairs"
+        ],
+        "brand": "CloudNine",
+        "price": "399.99",
+        "currency": "USD",
+        "sku": "CLN-ERGCH",
+        "stock": 193
+    },
+    {
+        "id": "PROD-070",
+        "title": "CloudNine Standing Desk",
+        "description": "Electric sit-stand desk with memory presets and cable management tray.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Furniture",
+            "Desks"
+        ],
+        "brand": "CloudNine",
+        "price": "549.99",
+        "currency": "USD",
+        "sku": "CLN-STDSK",
+        "stock": 40
+    },
+    {
+        "id": "PROD-071",
+        "title": "BrightSpark Whiteboard 48x36",
+        "description": "Magnetic dry-erase whiteboard with aluminum frame and marker tray.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Supplies",
+            "Whiteboards"
+        ],
+        "brand": "BrightSpark",
+        "price": "59.99",
+        "currency": "USD",
+        "sku": "BRS-WB48",
+        "stock": 282
+    },
+    {
+        "id": "PROD-072",
+        "title": "CloudNine Monitor Arm",
+        "description": "Gas-spring monitor arm that frees desk space and reduces neck strain.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Furniture",
+            "Accessories"
+        ],
+        "brand": "CloudNine",
+        "price": "49.99",
+        "currency": "USD",
+        "sku": "CLN-MNARM",
+        "stock": 150
+    },
+    {
+        "id": "PROD-073",
+        "title": "SilverLine Wireless Presenter",
+        "description": "Laser pointer and wireless presenter with intuitive slide controls.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Electronics",
+            "Presenters"
+        ],
+        "brand": "SilverLine",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "SVL-WRPRS",
+        "stock": 424
+    },
+    {
+        "id": "PROD-074",
+        "title": "CloudNine Desk Organizer",
+        "description": "Bamboo desk organizer with compartments for pens, phones, and supplies.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Organization",
+            "Storage"
+        ],
+        "brand": "CloudNine",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "CLN-DKORG",
+        "stock": 321
+    },
+    {
+        "id": "PROD-075",
+        "title": "BrightSpark Label Maker",
+        "description": "Handheld label maker with multiple font styles and tape widths.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Supplies",
+            "Labels"
+        ],
+        "brand": "BrightSpark",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "BRS-LBLMK",
+        "stock": 316
+    },
+    {
+        "id": "PROD-076",
+        "title": "CloudNine Filing Cabinet",
+        "description": "Three-drawer steel filing cabinet with lock and smooth glide rails.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Furniture",
+            "Storage"
+        ],
+        "brand": "CloudNine",
+        "price": "149.99",
+        "currency": "USD",
+        "sku": "CLN-FILCB",
+        "stock": 453
+    },
+    {
+        "id": "PROD-077",
+        "title": "TerraGreen Raised Garden Bed",
+        "description": "Cedar raised garden bed kit that assembles without tools.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Planters",
+            "Beds"
+        ],
+        "brand": "TerraGreen",
+        "price": "79.99",
+        "currency": "USD",
+        "sku": "TRG-RGBED",
+        "stock": 441
+    },
+    {
+        "id": "PROD-078",
+        "title": "EverBloom Pruning Shears",
+        "description": "Bypass pruning shears with ergonomic grip and hardened steel blades.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Tools",
+            "Shears"
+        ],
+        "brand": "EverBloom",
+        "price": "22.99",
+        "currency": "USD",
+        "sku": "EVB-PRSHR",
+        "stock": 185
+    },
+    {
+        "id": "PROD-079",
+        "title": "TerraGreen Compost Bin",
+        "description": "Tumbling compost bin that speeds up decomposition with dual chambers.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Composting",
+            "Bins"
+        ],
+        "brand": "TerraGreen",
+        "price": "89.99",
+        "currency": "USD",
+        "sku": "TRG-CMPBN",
+        "stock": 295
+    },
+    {
+        "id": "PROD-080",
+        "title": "EverBloom Garden Hose 50ft",
+        "description": "Expandable 50-foot garden hose with brass fittings and spray nozzle.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Watering",
+            "Hoses"
+        ],
+        "brand": "EverBloom",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "EVB-GH50F",
+        "stock": 98
+    },
+    {
+        "id": "PROD-081",
+        "title": "TerraGreen Potting Soil 25L",
+        "description": "Nutrient-rich organic potting soil blend for vegetables and flowers.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Soil",
+            "Growing Media"
+        ],
+        "brand": "TerraGreen",
+        "price": "14.99",
+        "currency": "USD",
+        "sku": "TRG-PTSL25",
+        "stock": 360
+    },
+    {
+        "id": "PROD-082",
+        "title": "GoldenLeaf Solar Path Lights",
+        "description": "Set of eight solar-powered LED path lights with auto on-off at dusk.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Lighting",
+            "Solar"
+        ],
+        "brand": "GoldenLeaf",
+        "price": "39.99",
+        "currency": "USD",
+        "sku": "GDL-SPLT8",
         "stock": 35
+    },
+    {
+        "id": "PROD-083",
+        "title": "EverBloom Gardening Gloves",
+        "description": "Thorn-proof gardening gloves with breathable bamboo fiber lining.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Accessories",
+            "Gloves"
+        ],
+        "brand": "EverBloom",
+        "price": "16.99",
+        "currency": "USD",
+        "sku": "EVB-GRDGL",
+        "stock": 23
+    },
+    {
+        "id": "PROD-084",
+        "title": "TerraGreen Seed Starter Kit",
+        "description": "72-cell seed starter kit with humidity dome and drip tray.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Seeds",
+            "Starters"
+        ],
+        "brand": "TerraGreen",
+        "price": "18.99",
+        "currency": "USD",
+        "sku": "TRG-SDSTK",
+        "stock": 338
+    },
+    {
+        "id": "PROD-085",
+        "title": "GoldenLeaf Bird Feeder",
+        "description": "Weather-resistant cedar bird feeder with large seed capacity.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Wildlife",
+            "Feeders"
+        ],
+        "brand": "GoldenLeaf",
+        "price": "27.99",
+        "currency": "USD",
+        "sku": "GDL-BDFDR",
+        "stock": 116
+    },
+    {
+        "id": "PROD-086",
+        "title": "EverBloom Wheelbarrow",
+        "description": "Heavy-duty steel wheelbarrow with pneumatic tire and cushioned grips.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Tools",
+            "Transport"
+        ],
+        "brand": "EverBloom",
+        "price": "74.99",
+        "currency": "USD",
+        "sku": "EVB-WHLBR",
+        "stock": 395
+    },
+    {
+        "id": "PROD-087",
+        "title": "BrightSpark Building Blocks 500pc",
+        "description": "Colorful 500-piece building block set compatible with major brands.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Toys",
+            "Building",
+            "Blocks"
+        ],
+        "brand": "BrightSpark",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "BRS-BB500",
+        "stock": 148
+    },
+    {
+        "id": "PROD-088",
+        "title": "BrightSpark Remote Control Car",
+        "description": "Off-road remote control car with rechargeable battery and 2.4GHz control.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Toys",
+            "Vehicles",
+            "Remote Control"
+        ],
+        "brand": "BrightSpark",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "BRS-RCCAR",
+        "stock": 40
+    },
+    {
+        "id": "PROD-089",
+        "title": "CloudNine Puzzle 1000pc",
+        "description": "Challenging 1000-piece jigsaw puzzle featuring a scenic mountain landscape.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Toys",
+            "Puzzles",
+            "Jigsaws"
+        ],
+        "brand": "CloudNine",
+        "price": "17.99",
+        "currency": "USD",
+        "sku": "CLN-PZ1K",
+        "stock": 437
+    },
+    {
+        "id": "PROD-090",
+        "title": "BrightSpark Science Kit",
+        "description": "Educational science kit with 30 experiments covering chemistry and physics.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Toys",
+            "Educational",
+            "Science"
+        ],
+        "brand": "BrightSpark",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "BRS-SCIKIT",
+        "stock": 119
+    },
+    {
+        "id": "PROD-091",
+        "title": "BrightSpark Art Easel",
+        "description": "Double-sided wooden art easel with chalkboard, whiteboard, and paper roll.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Toys",
+            "Art",
+            "Easels"
+        ],
+        "brand": "BrightSpark",
+        "price": "49.99",
+        "currency": "USD",
+        "sku": "BRS-ARTES",
+        "stock": 443
+    },
+    {
+        "id": "PROD-092",
+        "title": "CloudNine Board Game Collection",
+        "description": "Collection of five classic board games in one portable box.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Toys",
+            "Games",
+            "Board Games"
+        ],
+        "brand": "CloudNine",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "CLN-BGCOL",
+        "stock": 51
+    },
+    {
+        "id": "PROD-093",
+        "title": "BrightSpark Robot Kit",
+        "description": "Programmable robot kit that teaches coding basics through play.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Toys",
+            "STEM",
+            "Robots"
+        ],
+        "brand": "BrightSpark",
+        "price": "59.99",
+        "currency": "USD",
+        "sku": "BRS-RBTKT",
+        "stock": 194
+    },
+    {
+        "id": "PROD-094",
+        "title": "CloudNine Stuffed Bear",
+        "description": "Huggable plush teddy bear made from hypoallergenic ultra-soft fabric.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Toys",
+            "Plush",
+            "Stuffed Animals"
+        ],
+        "brand": "CloudNine",
+        "price": "22.99",
+        "currency": "USD",
+        "sku": "CLN-STFBR",
+        "stock": 142
+    },
+    {
+        "id": "PROD-095",
+        "title": "PureGlow Vitamin C Serum",
+        "description": "Brightening vitamin C serum with hyaluronic acid for radiant skin.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Skincare",
+            "Serums"
+        ],
+        "brand": "PureGlow",
+        "price": "28.99",
+        "currency": "USD",
+        "sku": "PRG-VCSER",
+        "stock": 232
+    },
+    {
+        "id": "PROD-096",
+        "title": "PureGlow Moisturizing Cream",
+        "description": "Rich daily moisturizer with shea butter and SPF 30 sun protection.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Skincare",
+            "Moisturizers"
+        ],
+        "brand": "PureGlow",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "PRG-MSTCR",
+        "stock": 325
+    },
+    {
+        "id": "PROD-097",
+        "title": "VelvetTouch Makeup Brush Set",
+        "description": "Professional 12-piece makeup brush set with vegan synthetic bristles.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Makeup",
+            "Brushes"
+        ],
+        "brand": "VelvetTouch",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "VLT-MKBRS",
+        "stock": 427
+    },
+    {
+        "id": "PROD-098",
+        "title": "PureGlow Clay Face Mask",
+        "description": "Detoxifying kaolin clay face mask that draws out impurities.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Skincare",
+            "Masks"
+        ],
+        "brand": "PureGlow",
+        "price": "18.99",
+        "currency": "USD",
+        "sku": "PRG-CLYMK",
+        "stock": 186
+    },
+    {
+        "id": "PROD-099",
+        "title": "PureGlow Lip Balm Trio",
+        "description": "Trio of organic lip balms in honey, mint, and berry flavors.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Lip Care",
+            "Balms"
+        ],
+        "brand": "PureGlow",
+        "price": "9.99",
+        "currency": "USD",
+        "sku": "PRG-LPBLM",
+        "stock": 83
+    },
+    {
+        "id": "PROD-100",
+        "title": "VelvetTouch Hair Dryer",
+        "description": "Ionic hair dryer with ceramic tourmaline technology and three heat settings.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Hair Care",
+            "Dryers"
+        ],
+        "brand": "VelvetTouch",
+        "price": "59.99",
+        "currency": "USD",
+        "sku": "VLT-HRDRY",
+        "stock": 189
+    },
+    {
+        "id": "PROD-101",
+        "title": "PureGlow Retinol Night Cream",
+        "description": "Anti-aging retinol night cream that smooths fine lines while you sleep.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Skincare",
+            "Anti-Aging"
+        ],
+        "brand": "PureGlow",
+        "price": "32.99",
+        "currency": "USD",
+        "sku": "PRG-RTNCR",
+        "stock": 181
+    },
+    {
+        "id": "PROD-102",
+        "title": "VelvetTouch Nail Polish Set",
+        "description": "Set of six long-lasting nail polishes in trending seasonal shades.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Nails",
+            "Polish"
+        ],
+        "brand": "VelvetTouch",
+        "price": "21.99",
+        "currency": "USD",
+        "sku": "VLT-NLPLS",
+        "stock": 107
+    },
+    {
+        "id": "PROD-103",
+        "title": "PureGlow Sunscreen SPF 50",
+        "description": "Lightweight broad-spectrum SPF 50 sunscreen that leaves no white cast.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Skincare",
+            "Sun Protection"
+        ],
+        "brand": "PureGlow",
+        "price": "16.99",
+        "currency": "USD",
+        "sku": "PRG-SNSCR",
+        "stock": 343
+    },
+    {
+        "id": "PROD-104",
+        "title": "VelvetTouch Curling Iron",
+        "description": "Ceramic barrel curling iron with adjustable temperature for lasting curls.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Hair Care",
+            "Styling"
+        ],
+        "brand": "VelvetTouch",
+        "price": "39.99",
+        "currency": "USD",
+        "sku": "VLT-CRLIN",
+        "stock": 136
+    },
+    {
+        "id": "PROD-105",
+        "title": "PeakGear Running Shoes",
+        "description": "Cushioned running shoes with breathable mesh upper and responsive foam sole.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Footwear",
+            "Running"
+        ],
+        "brand": "PeakGear",
+        "price": "119.99",
+        "currency": "USD",
+        "sku": "PKG-RNSHS",
+        "stock": 359
+    },
+    {
+        "id": "PROD-106",
+        "title": "WildTrail Camping Tent 4P",
+        "description": "Four-person waterproof tent with easy setup and included rainfly.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Camping",
+            "Tents"
+        ],
+        "brand": "WildTrail",
+        "price": "179.99",
+        "currency": "USD",
+        "sku": "WLT-CTNT4",
+        "stock": 479
+    },
+    {
+        "id": "PROD-107",
+        "title": "PeakGear Cycling Helmet",
+        "description": "Lightweight ventilated cycling helmet with adjustable fit dial.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Cycling",
+            "Helmets"
+        ],
+        "brand": "PeakGear",
+        "price": "64.99",
+        "currency": "USD",
+        "sku": "PKG-CYCHL",
+        "stock": 349
+    },
+    {
+        "id": "PROD-108",
+        "title": "WildTrail Sleeping Bag 30F",
+        "description": "Mummy-style sleeping bag rated to 30 degrees with compression sack.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Camping",
+            "Sleeping Bags"
+        ],
+        "brand": "WildTrail",
+        "price": "69.99",
+        "currency": "USD",
+        "sku": "WLT-SB30F",
+        "stock": 331
+    },
+    {
+        "id": "PROD-109",
+        "title": "SunPeak Tennis Racket",
+        "description": "Graphite composite tennis racket with vibration-dampening technology.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Tennis",
+            "Rackets"
+        ],
+        "brand": "SunPeak",
+        "price": "89.99",
+        "currency": "USD",
+        "sku": "SNP-TNRKT",
+        "stock": 36
+    },
+    {
+        "id": "PROD-110",
+        "title": "PeakGear Basketball",
+        "description": "Official size indoor-outdoor composite leather basketball.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Basketball",
+            "Balls"
+        ],
+        "brand": "PeakGear",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "PKG-BSKTB",
+        "stock": 311
+    },
+    {
+        "id": "PROD-111",
+        "title": "WildTrail Trekking Poles",
+        "description": "Adjustable carbon fiber trekking poles with cork grips and wrist straps.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Hiking",
+            "Poles"
+        ],
+        "brand": "WildTrail",
+        "price": "54.99",
+        "currency": "USD",
+        "sku": "WLT-TKPLS",
+        "stock": 325
+    },
+    {
+        "id": "PROD-112",
+        "title": "SunPeak Soccer Ball Size 5",
+        "description": "FIFA-approved match soccer ball with thermal bonded panels.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Soccer",
+            "Balls"
+        ],
+        "brand": "SunPeak",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "SNP-SCBL5",
+        "stock": 87
+    },
+    {
+        "id": "PROD-113",
+        "title": "PeakGear Swim Goggles",
+        "description": "Anti-fog swim goggles with UV protection and adjustable nose bridge.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Swimming",
+            "Goggles"
+        ],
+        "brand": "PeakGear",
+        "price": "18.99",
+        "currency": "USD",
+        "sku": "PKG-SWMGG",
+        "stock": 273
+    },
+    {
+        "id": "PROD-114",
+        "title": "WildTrail Climbing Harness",
+        "description": "Padded climbing harness with quick-release buckles and gear loops.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Climbing",
+            "Harnesses"
+        ],
+        "brand": "WildTrail",
+        "price": "74.99",
+        "currency": "USD",
+        "sku": "WLT-CLHRN",
+        "stock": 373
+    },
+    {
+        "id": "PROD-115",
+        "title": "PrimeFuel Protein Bars 12-Pack",
+        "description": "High-protein low-sugar bars in chocolate peanut butter flavor.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Snacks",
+            "Protein"
+        ],
+        "brand": "PrimeFuel",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "PMF-PB12P",
+        "stock": 125
+    },
+    {
+        "id": "PROD-116",
+        "title": "GoldenLeaf Organic Green Tea",
+        "description": "Premium loose-leaf organic green tea sourced from Japanese highlands.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Beverages",
+            "Tea"
+        ],
+        "brand": "GoldenLeaf",
+        "price": "14.99",
+        "currency": "USD",
+        "sku": "GDL-OGRNT",
+        "stock": 83
+    },
+    {
+        "id": "PROD-117",
+        "title": "PrimeFuel Electrolyte Mix 30ct",
+        "description": "Sugar-free electrolyte drink mix packets for hydration on the go.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Beverages",
+            "Supplements"
+        ],
+        "brand": "PrimeFuel",
+        "price": "19.99",
+        "currency": "USD",
+        "sku": "PMF-ELM30",
+        "stock": 236
+    },
+    {
+        "id": "PROD-118",
+        "title": "NovaBrew Whole Bean Coffee 1lb",
+        "description": "Single-origin medium roast whole bean coffee with tasting notes of caramel.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Beverages",
+            "Coffee"
+        ],
+        "brand": "NovaBrew",
+        "price": "16.99",
+        "currency": "USD",
+        "sku": "NVB-WBC1L",
+        "stock": 194
+    },
+    {
+        "id": "PROD-119",
+        "title": "GoldenLeaf Manuka Honey 500g",
+        "description": "Raw certified Manuka honey with rich antibacterial properties.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Pantry",
+            "Honey"
+        ],
+        "brand": "GoldenLeaf",
+        "price": "39.99",
+        "currency": "USD",
+        "sku": "GDL-MNKHN",
+        "stock": 138
+    },
+    {
+        "id": "PROD-120",
+        "title": "PrimeFuel Whey Protein 2lb",
+        "description": "Grass-fed whey protein isolate powder in vanilla bean flavor.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Supplements",
+            "Protein"
+        ],
+        "brand": "PrimeFuel",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "PMF-WP2LB",
+        "stock": 473
+    },
+    {
+        "id": "PROD-121",
+        "title": "GoldenLeaf Dark Chocolate Bar",
+        "description": "Single-origin 72 percent dark chocolate bar with sea salt finish.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Snacks",
+            "Chocolate"
+        ],
+        "brand": "GoldenLeaf",
+        "price": "5.99",
+        "currency": "USD",
+        "sku": "GDL-DKCHC",
+        "stock": 327
+    },
+    {
+        "id": "PROD-122",
+        "title": "NovaBrew Matcha Powder 100g",
+        "description": "Ceremonial grade matcha green tea powder from Uji, Japan.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Beverages",
+            "Tea"
+        ],
+        "brand": "NovaBrew",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "NVB-MTCH1",
+        "stock": 352
+    },
+    {
+        "id": "PROD-123",
+        "title": "PrimeFuel Trail Mix 1lb",
+        "description": "Energy-packed trail mix with almonds, cashews, dark chocolate, and dried mango.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Snacks",
+            "Trail Mix"
+        ],
+        "brand": "PrimeFuel",
+        "price": "11.99",
+        "currency": "USD",
+        "sku": "PMF-TRMX1",
+        "stock": 285
+    },
+    {
+        "id": "PROD-124",
+        "title": "GoldenLeaf Extra Virgin Olive Oil",
+        "description": "Cold-pressed extra virgin olive oil from hand-picked Tuscan olives.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Pantry",
+            "Oils"
+        ],
+        "brand": "GoldenLeaf",
+        "price": "18.99",
+        "currency": "USD",
+        "sku": "GDL-EVOO",
+        "stock": 112
+    },
+    {
+        "id": "PROD-125",
+        "title": "NightOwl Journal Hardcover",
+        "description": "Lay-flat hardcover journal with 240 lined acid-free pages.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Books",
+            "Journals",
+            "Stationery"
+        ],
+        "brand": "NightOwl",
+        "price": "16.99",
+        "currency": "USD",
+        "sku": "NOW-JRNHC",
+        "stock": 350
+    },
+    {
+        "id": "PROD-126",
+        "title": "NightOwl Sketchbook A4",
+        "description": "Heavyweight A4 sketchbook with 100 pages of acid-free drawing paper.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Books",
+            "Art",
+            "Sketchbooks"
+        ],
+        "brand": "NightOwl",
+        "price": "14.99",
+        "currency": "USD",
+        "sku": "NOW-SKBA4",
+        "stock": 166
+    },
+    {
+        "id": "PROD-127",
+        "title": "NightOwl Planner 2026",
+        "description": "Weekly planner for 2026 with goal-setting pages and monthly overviews.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Books",
+            "Planners",
+            "Organization"
+        ],
+        "brand": "NightOwl",
+        "price": "22.99",
+        "currency": "USD",
+        "sku": "NOW-PLN26",
+        "stock": 431
+    },
+    {
+        "id": "PROD-128",
+        "title": "NightOwl Cookbook: World Flavors",
+        "description": "Beautifully illustrated cookbook with 150 recipes from 30 countries.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Books",
+            "Cooking",
+            "Recipes"
+        ],
+        "brand": "NightOwl",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "NOW-CKBWF",
+        "stock": 393
+    },
+    {
+        "id": "PROD-129",
+        "title": "NightOwl Fitness Logbook",
+        "description": "Structured workout logbook to track exercises, sets, and progress.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Books",
+            "Fitness",
+            "Logs"
+        ],
+        "brand": "NightOwl",
+        "price": "12.99",
+        "currency": "USD",
+        "sku": "NOW-FTLOG",
+        "stock": 397
+    },
+    {
+        "id": "PROD-130",
+        "title": "NightOwl Guided Meditation Book",
+        "description": "Illustrated guide with 52 weekly meditation practices for beginners.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Books",
+            "Wellness",
+            "Meditation"
+        ],
+        "brand": "NightOwl",
+        "price": "18.99",
+        "currency": "USD",
+        "sku": "NOW-GMDTN",
+        "stock": 28
+    },
+    {
+        "id": "PROD-131",
+        "title": "NightOwl Gratitude Journal",
+        "description": "Daily gratitude journal with prompts to cultivate a positive mindset.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Books",
+            "Journals",
+            "Wellness"
+        ],
+        "brand": "NightOwl",
+        "price": "13.99",
+        "currency": "USD",
+        "sku": "NOW-GRJNL",
+        "stock": 117
+    },
+    {
+        "id": "PROD-132",
+        "title": "NightOwl Photography Book",
+        "description": "Coffee-table photography book showcasing stunning national park landscapes.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Books",
+            "Art",
+            "Photography"
+        ],
+        "brand": "NightOwl",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "NOW-PHBK",
+        "stock": 420
+    },
+    {
+        "id": "PROD-133",
+        "title": "ZenithAudio Acoustic Guitar",
+        "description": "Full-size spruce top acoustic guitar with warm tone and smooth action.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Music",
+            "Instruments",
+            "Guitars"
+        ],
+        "brand": "ZenithAudio",
+        "price": "249.99",
+        "currency": "USD",
+        "sku": "ZEN-ACGTR",
+        "stock": 16
+    },
+    {
+        "id": "PROD-134",
+        "title": "ZenithAudio Electric Guitar",
+        "description": "Solid-body electric guitar with dual humbuckers and maple neck.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Music",
+            "Instruments",
+            "Guitars"
+        ],
+        "brand": "ZenithAudio",
+        "price": "449.99",
+        "currency": "USD",
+        "sku": "ZEN-ELGTR",
+        "stock": 412
+    },
+    {
+        "id": "PROD-135",
+        "title": "ZenithAudio Ukulele Concert",
+        "description": "Mahogany concert ukulele with bright tone and geared tuners.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Music",
+            "Instruments",
+            "Ukuleles"
+        ],
+        "brand": "ZenithAudio",
+        "price": "69.99",
+        "currency": "USD",
+        "sku": "ZEN-UKCRT",
+        "stock": 161
+    },
+    {
+        "id": "PROD-136",
+        "title": "ZenithAudio Digital Piano 88-Key",
+        "description": "Weighted 88-key digital piano with realistic hammer action and built-in speakers.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Music",
+            "Instruments",
+            "Pianos"
+        ],
+        "brand": "ZenithAudio",
+        "price": "799.99",
+        "currency": "USD",
+        "sku": "ZEN-DP88K",
+        "stock": 205
+    },
+    {
+        "id": "PROD-137",
+        "title": "ZenithAudio Guitar Capo",
+        "description": "Quick-release guitar capo with padded clamp to protect frets.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Music",
+            "Accessories",
+            "Capos"
+        ],
+        "brand": "ZenithAudio",
+        "price": "12.99",
+        "currency": "USD",
+        "sku": "ZEN-GTCPO",
+        "stock": 137
+    },
+    {
+        "id": "PROD-138",
+        "title": "ZenithAudio Drum Pad",
+        "description": "Electronic practice drum pad with metronome and multiple sound modes.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Music",
+            "Instruments",
+            "Drums"
+        ],
+        "brand": "ZenithAudio",
+        "price": "89.99",
+        "currency": "USD",
+        "sku": "ZEN-DRMPD",
+        "stock": 33
+    },
+    {
+        "id": "PROD-139",
+        "title": "ZenithAudio Microphone Condenser",
+        "description": "Large-diaphragm condenser microphone for studio vocals and podcasting.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Music",
+            "Recording",
+            "Microphones"
+        ],
+        "brand": "ZenithAudio",
+        "price": "149.99",
+        "currency": "USD",
+        "sku": "ZEN-MCCON",
+        "stock": 108
+    },
+    {
+        "id": "PROD-140",
+        "title": "ZenithAudio Guitar Strings Set",
+        "description": "Phosphor bronze acoustic guitar strings with bright balanced tone.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Music",
+            "Accessories",
+            "Strings"
+        ],
+        "brand": "ZenithAudio",
+        "price": "8.99",
+        "currency": "USD",
+        "sku": "ZEN-GTSTG",
+        "stock": 467
+    },
+    {
+        "id": "PROD-141",
+        "title": "LunarWave Audio Interface",
+        "description": "USB audio interface with two XLR inputs and zero-latency monitoring.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Music",
+            "Recording",
+            "Interfaces"
+        ],
+        "brand": "LunarWave",
+        "price": "129.99",
+        "currency": "USD",
+        "sku": "LNW-AUDIF",
+        "stock": 482
+    },
+    {
+        "id": "PROD-142",
+        "title": "ZenithAudio Music Stand",
+        "description": "Folding metal music stand with adjustable height and angle.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Music",
+            "Accessories",
+            "Stands"
+        ],
+        "brand": "ZenithAudio",
+        "price": "19.99",
+        "currency": "USD",
+        "sku": "ZEN-MSSTD",
+        "stock": 290
+    },
+    {
+        "id": "PROD-143",
+        "title": "TigerPaw Dog Bed Large",
+        "description": "Orthopedic memory foam dog bed with waterproof liner and washable cover.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Dogs",
+            "Beds"
+        ],
+        "brand": "TigerPaw",
+        "price": "59.99",
+        "currency": "USD",
+        "sku": "TGP-DGBDL",
+        "stock": 448
+    },
+    {
+        "id": "PROD-144",
+        "title": "TigerPaw Cat Tree",
+        "description": "Multi-level cat tree with sisal scratching posts and cozy perches.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Cats",
+            "Furniture"
+        ],
+        "brand": "TigerPaw",
+        "price": "79.99",
+        "currency": "USD",
+        "sku": "TGP-CTTRE",
+        "stock": 367
+    },
+    {
+        "id": "PROD-145",
+        "title": "TigerPaw Dog Leash 6ft",
+        "description": "Heavy-duty braided nylon dog leash with padded handle.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Dogs",
+            "Leashes"
+        ],
+        "brand": "TigerPaw",
+        "price": "16.99",
+        "currency": "USD",
+        "sku": "TGP-DGLSH",
+        "stock": 161
+    },
+    {
+        "id": "PROD-146",
+        "title": "TigerPaw Automatic Feeder",
+        "description": "Programmable automatic pet feeder with portion control for cats and dogs.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Feeding",
+            "Feeders"
+        ],
+        "brand": "TigerPaw",
+        "price": "49.99",
+        "currency": "USD",
+        "sku": "TGP-ATFDR",
+        "stock": 108
+    },
+    {
+        "id": "PROD-147",
+        "title": "TigerPaw Interactive Cat Toy",
+        "description": "Battery-powered interactive cat toy with unpredictable movements.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Cats",
+            "Toys"
+        ],
+        "brand": "TigerPaw",
+        "price": "14.99",
+        "currency": "USD",
+        "sku": "TGP-ICTOY",
+        "stock": 335
+    },
+    {
+        "id": "PROD-148",
+        "title": "TigerPaw Dog Crate Medium",
+        "description": "Collapsible wire dog crate with divider panel and removable tray.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Dogs",
+            "Crates"
+        ],
+        "brand": "TigerPaw",
+        "price": "54.99",
+        "currency": "USD",
+        "sku": "TGP-DGCRM",
+        "stock": 255
+    },
+    {
+        "id": "PROD-149",
+        "title": "TigerPaw Pet Shampoo",
+        "description": "Gentle oatmeal pet shampoo that soothes sensitive and itchy skin.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Grooming",
+            "Shampoo"
+        ],
+        "brand": "TigerPaw",
+        "price": "11.99",
+        "currency": "USD",
+        "sku": "TGP-PSHMP",
+        "stock": 202
+    },
+    {
+        "id": "PROD-150",
+        "title": "TigerPaw Dog Harness",
+        "description": "No-pull padded dog harness with reflective stitching for night walks.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Dogs",
+            "Harnesses"
+        ],
+        "brand": "TigerPaw",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "TGP-DGHRN",
+        "stock": 452
+    },
+    {
+        "id": "PROD-151",
+        "title": "TigerPaw Water Fountain",
+        "description": "Filtered pet water fountain that encourages cats and dogs to drink more.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Feeding",
+            "Fountains"
+        ],
+        "brand": "TigerPaw",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "TGP-WTFTN",
+        "stock": 468
+    },
+    {
+        "id": "PROD-152",
+        "title": "TigerPaw Grooming Kit",
+        "description": "Complete pet grooming kit with clippers, scissors, combs, and nail trimmer.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Grooming",
+            "Kits"
+        ],
+        "brand": "TigerPaw",
+        "price": "39.99",
+        "currency": "USD",
+        "sku": "TGP-GRMKT",
+        "stock": 329
+    },
+    {
+        "id": "PROD-153",
+        "title": "FrostByte Gaming Headset",
+        "description": "Surround sound gaming headset with retractable mic and RGB ear cups.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Gaming",
+            "Headsets"
+        ],
+        "brand": "FrostByte",
+        "price": "74.99",
+        "currency": "USD",
+        "sku": "FRB-GMHST",
+        "stock": 234
+    },
+    {
+        "id": "PROD-154",
+        "title": "AuroraTech Smartwatch Sport",
+        "description": "GPS-enabled smartwatch with heart rate monitor and 7-day battery life.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Wearables",
+            "Watches"
+        ],
+        "brand": "AuroraTech",
+        "price": "249.99",
+        "currency": "USD",
+        "sku": "AUR-SWSPT",
+        "stock": 73
+    },
+    {
+        "id": "PROD-155",
+        "title": "SilverLine Mesh Wi-Fi System",
+        "description": "Tri-band mesh Wi-Fi system covering up to 6000 square feet.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Networking",
+            "Routers"
+        ],
+        "brand": "SilverLine",
+        "price": "299.99",
+        "currency": "USD",
+        "sku": "SVL-MSHWF",
+        "stock": 135
+    },
+    {
+        "id": "PROD-156",
+        "title": "FrostByte Streaming Webcam 4K",
+        "description": "Ultra HD 4K streaming webcam with ring light and privacy shutter.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Streaming",
+            "Webcams"
+        ],
+        "brand": "FrostByte",
+        "price": "129.99",
+        "currency": "USD",
+        "sku": "FRB-SW4K",
+        "stock": 71
+    },
+    {
+        "id": "PROD-157",
+        "title": "AuroraTech Wireless Earbuds",
+        "description": "True wireless earbuds with active noise cancellation and wireless charging case.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Audio",
+            "Earbuds"
+        ],
+        "brand": "AuroraTech",
+        "price": "149.99",
+        "currency": "USD",
+        "sku": "AUR-WLEBD",
+        "stock": 126
+    },
+    {
+        "id": "PROD-158",
+        "title": "SilverLine Robot Vacuum",
+        "description": "Smart robot vacuum with laser navigation and self-emptying dustbin.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Appliances",
+            "Vacuums"
+        ],
+        "brand": "SilverLine",
+        "price": "499.99",
+        "currency": "USD",
+        "sku": "SVL-RBVAC",
+        "stock": 381
+    },
+    {
+        "id": "PROD-159",
+        "title": "HomeCraft Linen Tablecloth",
+        "description": "Stonewashed linen tablecloth in a natural oat color for elegant dining.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Dining",
+            "Linens"
+        ],
+        "brand": "HomeCraft",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "HMC-LNTBL",
+        "stock": 287
+    },
+    {
+        "id": "PROD-160",
+        "title": "AquaPure Water Filter Pitcher",
+        "description": "10-cup water filter pitcher that reduces chlorine, lead, and mercury.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Kitchen",
+            "Filters"
+        ],
+        "brand": "AquaPure",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "AQP-WFPCH",
+        "stock": 275
+    },
+    {
+        "id": "PROD-161",
+        "title": "IronClad Wok 14-Inch",
+        "description": "Carbon steel wok with flat bottom and long wooden handle for stir-fry.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Cookware",
+            "Woks"
+        ],
+        "brand": "IronClad",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "IRC-WK14",
+        "stock": 134
+    },
+    {
+        "id": "PROD-162",
+        "title": "SteelForge Bread Knife",
+        "description": "Serrated bread knife that slices cleanly through crusty loaves.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Knives",
+            "Bread"
+        ],
+        "brand": "SteelForge",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "STF-BRDKN",
+        "stock": 382
+    },
+    {
+        "id": "PROD-163",
+        "title": "MapleCraft Salad Spinner",
+        "description": "Easy-pump salad spinner that dries greens quickly and thoroughly.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Tools",
+            "Spinners"
+        ],
+        "brand": "MapleCraft",
+        "price": "19.99",
+        "currency": "USD",
+        "sku": "MPC-SLSPN",
+        "stock": 299
+    },
+    {
+        "id": "PROD-164",
+        "title": "VitalFit Ab Roller",
+        "description": "Dual-wheel ab roller with knee pad for effective core training.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Core",
+            "Rollers"
+        ],
+        "brand": "VitalFit",
+        "price": "17.99",
+        "currency": "USD",
+        "sku": "VTF-ABRLR",
+        "stock": 219
+    },
+    {
+        "id": "PROD-165",
+        "title": "PeakGear Gym Bag",
+        "description": "Ventilated gym duffel bag with separate shoe compartment and water bottle pocket.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Bags",
+            "Duffels"
+        ],
+        "brand": "PeakGear",
+        "price": "39.99",
+        "currency": "USD",
+        "sku": "PKG-GYMBG",
+        "stock": 459
+    },
+    {
+        "id": "PROD-166",
+        "title": "OceanBreeze Eye Mask Set",
+        "description": "Silk sleep eye mask with ear plugs for restful travel naps.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Accessories",
+            "Sleep"
+        ],
+        "brand": "OceanBreeze",
+        "price": "14.99",
+        "currency": "USD",
+        "sku": "OCB-EYMSK",
+        "stock": 298
+    },
+    {
+        "id": "PROD-167",
+        "title": "TrailBound Compression Socks",
+        "description": "Graduated compression socks that improve circulation on long flights.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Clothing",
+            "Socks"
+        ],
+        "brand": "TrailBound",
+        "price": "16.99",
+        "currency": "USD",
+        "sku": "TRB-CMPSK",
+        "stock": 204
+    },
+    {
+        "id": "PROD-168",
+        "title": "WildTrail Running Tights",
+        "description": "Moisture-wicking running tights with side pocket and reflective details.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Activewear",
+            "Tights"
+        ],
+        "brand": "WildTrail",
+        "price": "49.99",
+        "currency": "USD",
+        "sku": "WLT-RNTGT",
+        "stock": 185
+    },
+    {
+        "id": "PROD-169",
+        "title": "VelvetTouch Leather Belt",
+        "description": "Full-grain leather belt with brushed nickel buckle for everyday wear.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Accessories",
+            "Belts"
+        ],
+        "brand": "VelvetTouch",
+        "price": "39.99",
+        "currency": "USD",
+        "sku": "VLT-LTBLT",
+        "stock": 112
+    },
+    {
+        "id": "PROD-170",
+        "title": "UrbanPulse Wool Beanie",
+        "description": "Merino wool beanie with fleece lining for warmth without bulk.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Accessories",
+            "Hats"
+        ],
+        "brand": "UrbanPulse",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "URP-WLBNE",
+        "stock": 70
+    },
+    {
+        "id": "PROD-171",
+        "title": "CloudNine Footrest",
+        "description": "Adjustable under-desk footrest with massage surface to reduce leg fatigue.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Ergonomics",
+            "Footrests"
+        ],
+        "brand": "CloudNine",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "CLN-FTRST",
+        "stock": 260
+    },
+    {
+        "id": "PROD-172",
+        "title": "BrightSpark Pen Set Premium",
+        "description": "Set of three precision gel pens with smooth ink flow and comfort grip.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Supplies",
+            "Pens"
+        ],
+        "brand": "BrightSpark",
+        "price": "14.99",
+        "currency": "USD",
+        "sku": "BRS-PNSET",
+        "stock": 252
+    },
+    {
+        "id": "PROD-173",
+        "title": "TerraGreen Sprinkler System",
+        "description": "Oscillating lawn sprinkler with adjustable range up to 3600 square feet.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Watering",
+            "Sprinklers"
+        ],
+        "brand": "TerraGreen",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "TRG-SPRNK",
+        "stock": 46
+    },
+    {
+        "id": "PROD-174",
+        "title": "GoldenLeaf Hanging Planter Set",
+        "description": "Set of three macrame hanging planters with ceramic pots included.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Planters",
+            "Hanging"
+        ],
+        "brand": "GoldenLeaf",
+        "price": "32.99",
+        "currency": "USD",
+        "sku": "GDL-HGPLT",
+        "stock": 386
+    },
+    {
+        "id": "PROD-175",
+        "title": "EverBloom Lawn Mower Electric",
+        "description": "Cordless electric lawn mower with 40V battery and 18-inch cutting deck.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Tools",
+            "Mowers"
+        ],
+        "brand": "EverBloom",
+        "price": "299.99",
+        "currency": "USD",
+        "sku": "EVB-ELMWR",
+        "stock": 24
+    },
+    {
+        "id": "PROD-176",
+        "title": "SunPeak Golf Club Set",
+        "description": "Complete 14-piece golf club set with bag for intermediate players.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Golf",
+            "Club Sets"
+        ],
+        "brand": "SunPeak",
+        "price": "599.99",
+        "currency": "USD",
+        "sku": "SNP-GLFST",
+        "stock": 440
+    },
+    {
+        "id": "PROD-177",
+        "title": "PeakGear Yoga Block 2-Pack",
+        "description": "High-density EVA foam yoga blocks for support and alignment.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Yoga",
+            "Blocks"
+        ],
+        "brand": "PeakGear",
+        "price": "15.99",
+        "currency": "USD",
+        "sku": "PKG-YGBLK",
+        "stock": 56
+    },
+    {
+        "id": "PROD-178",
+        "title": "WildTrail Fishing Rod Combo",
+        "description": "Medium-action spinning rod and reel combo for freshwater fishing.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Fishing",
+            "Rods"
+        ],
+        "brand": "WildTrail",
+        "price": "49.99",
+        "currency": "USD",
+        "sku": "WLT-FSHRD",
+        "stock": 78
+    },
+    {
+        "id": "PROD-179",
+        "title": "GoldenLeaf Organic Granola",
+        "description": "Crunchy organic granola with oats, almonds, and wild blueberries.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Breakfast",
+            "Granola"
+        ],
+        "brand": "GoldenLeaf",
+        "price": "8.99",
+        "currency": "USD",
+        "sku": "GDL-ORGRA",
+        "stock": 321
+    },
+    {
+        "id": "PROD-180",
+        "title": "PrimeFuel BCAA Powder",
+        "description": "Branch chain amino acid powder for workout recovery in lemon-lime flavor.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Supplements",
+            "Amino Acids"
+        ],
+        "brand": "PrimeFuel",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "PMF-BCAAP",
+        "stock": 81
+    },
+    {
+        "id": "PROD-181",
+        "title": "NovaBrew Chai Tea Bags 20ct",
+        "description": "Aromatic chai tea bags with cinnamon, cardamom, and ginger spices.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Beverages",
+            "Tea"
+        ],
+        "brand": "NovaBrew",
+        "price": "7.99",
+        "currency": "USD",
+        "sku": "NVB-CHAI20",
+        "stock": 405
+    },
+    {
+        "id": "PROD-182",
+        "title": "PureGlow Eye Cream",
+        "description": "Hydrating eye cream that reduces dark circles and puffiness overnight.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Skincare",
+            "Eye Care"
+        ],
+        "brand": "PureGlow",
+        "price": "26.99",
+        "currency": "USD",
+        "sku": "PRG-EYCRM",
+        "stock": 348
+    },
+    {
+        "id": "PROD-183",
+        "title": "VelvetTouch Flat Iron",
+        "description": "Titanium flat iron with floating plates for smooth, frizz-free hair.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Hair Care",
+            "Styling"
+        ],
+        "brand": "VelvetTouch",
+        "price": "69.99",
+        "currency": "USD",
+        "sku": "VLT-FLIRN",
+        "stock": 216
+    },
+    {
+        "id": "PROD-184",
+        "title": "TigerPaw Cat Litter Mat",
+        "description": "Double-layer honeycomb cat litter mat that traps scatter and is easy to clean.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Cats",
+            "Litter"
+        ],
+        "brand": "TigerPaw",
+        "price": "19.99",
+        "currency": "USD",
+        "sku": "TGP-CLTMT",
+        "stock": 305
+    },
+    {
+        "id": "PROD-185",
+        "title": "TigerPaw Dog Toy Rope",
+        "description": "Durable cotton rope dog toy for tug-of-war and dental health.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Dogs",
+            "Toys"
+        ],
+        "brand": "TigerPaw",
+        "price": "9.99",
+        "currency": "USD",
+        "sku": "TGP-DGRPT",
+        "stock": 32
+    },
+    {
+        "id": "PROD-186",
+        "title": "SilverLine Security Camera",
+        "description": "Weatherproof outdoor security camera with night vision and two-way audio.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Smart Home",
+            "Security"
+        ],
+        "brand": "SilverLine",
+        "price": "89.99",
+        "currency": "USD",
+        "sku": "SVL-SECCM",
+        "stock": 197
+    },
+    {
+        "id": "PROD-187",
+        "title": "HomeCraft Doormat Coir",
+        "description": "Natural coir doormat with a charming welcome message and non-slip backing.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Entryway",
+            "Doormats"
+        ],
+        "brand": "HomeCraft",
+        "price": "22.99",
+        "currency": "USD",
+        "sku": "HMC-DRMAT",
+        "stock": 195
+    },
+    {
+        "id": "PROD-188",
+        "title": "NovaBrew French Press 34oz",
+        "description": "Double-walled stainless steel French press that keeps coffee hot for hours.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Coffee",
+            "Presses"
+        ],
+        "brand": "NovaBrew",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "NVB-FP34",
+        "stock": 305
+    },
+    {
+        "id": "PROD-189",
+        "title": "VitalFit Ankle Weights 5lb Pair",
+        "description": "Adjustable ankle weights for adding resistance to walks and exercises.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Fitness",
+            "Weights",
+            "Ankle"
+        ],
+        "brand": "VitalFit",
+        "price": "19.99",
+        "currency": "USD",
+        "sku": "VTF-ANKWT",
+        "stock": 239
+    },
+    {
+        "id": "PROD-190",
+        "title": "TrailBound Waterproof Phone Pouch",
+        "description": "Universal waterproof phone pouch rated IPX8 for beach and pool use.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Travel",
+            "Accessories",
+            "Cases"
+        ],
+        "brand": "TrailBound",
+        "price": "9.99",
+        "currency": "USD",
+        "sku": "TRB-WPPHP",
+        "stock": 270
+    },
+    {
+        "id": "PROD-191",
+        "title": "UrbanPulse Denim Jacket",
+        "description": "Classic medium-wash denim jacket with button front and chest pockets.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Clothing",
+            "Outerwear",
+            "Jackets"
+        ],
+        "brand": "UrbanPulse",
+        "price": "69.99",
+        "currency": "USD",
+        "sku": "URP-DNJKT",
+        "stock": 128
+    },
+    {
+        "id": "PROD-192",
+        "title": "CloudNine Keyboard Tray",
+        "description": "Under-desk keyboard tray with gel wrist rest and smooth sliding track.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Office",
+            "Ergonomics",
+            "Trays"
+        ],
+        "brand": "CloudNine",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "CLN-KBTRY",
+        "stock": 497
+    },
+    {
+        "id": "PROD-193",
+        "title": "TerraGreen Plant Food Sticks",
+        "description": "Slow-release plant food sticks for indoor and outdoor potted plants.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Garden",
+            "Fertilizer",
+            "Sticks"
+        ],
+        "brand": "TerraGreen",
+        "price": "6.99",
+        "currency": "USD",
+        "sku": "TRG-PFSTK",
+        "stock": 283
+    },
+    {
+        "id": "PROD-194",
+        "title": "SunPeak Badminton Set",
+        "description": "Complete backyard badminton set with net, rackets, and shuttlecocks.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Sports",
+            "Badminton",
+            "Sets"
+        ],
+        "brand": "SunPeak",
+        "price": "44.99",
+        "currency": "USD",
+        "sku": "SNP-BDMNT",
+        "stock": 440
+    },
+    {
+        "id": "PROD-195",
+        "title": "GoldenLeaf Herbal Tea Sampler",
+        "description": "Sampler box of 40 herbal tea bags in ten caffeine-free flavors.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Food",
+            "Beverages",
+            "Tea"
+        ],
+        "brand": "GoldenLeaf",
+        "price": "16.99",
+        "currency": "USD",
+        "sku": "GDL-HTSMP",
+        "stock": 482
+    },
+    {
+        "id": "PROD-196",
+        "title": "PureGlow Charcoal Cleanser",
+        "description": "Activated charcoal facial cleanser that deeply purifies without drying.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Beauty",
+            "Skincare",
+            "Cleansers"
+        ],
+        "brand": "PureGlow",
+        "price": "14.99",
+        "currency": "USD",
+        "sku": "PRG-CHRCL",
+        "stock": 5
+    },
+    {
+        "id": "PROD-197",
+        "title": "TigerPaw Catnip Toy 3-Pack",
+        "description": "Set of three catnip-filled plush toys that drive cats wild with excitement.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Pet Supplies",
+            "Cats",
+            "Toys"
+        ],
+        "brand": "TigerPaw",
+        "price": "8.99",
+        "currency": "USD",
+        "sku": "TGP-CNP3P",
+        "stock": 348
+    },
+    {
+        "id": "PROD-198",
+        "title": "LunarWave Portable Record Player",
+        "description": "Vintage-style portable record player with built-in speakers and Bluetooth.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Audio",
+            "Turntables"
+        ],
+        "brand": "LunarWave",
+        "price": "99.99",
+        "currency": "USD",
+        "sku": "LNW-PRCRP",
+        "stock": 369
+    },
+    {
+        "id": "PROD-199",
+        "title": "CozyNest Bath Towel Set",
+        "description": "Set of four plush Turkish cotton bath towels with excellent absorbency.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Bath",
+            "Towels"
+        ],
+        "brand": "CozyNest",
+        "price": "49.99",
+        "currency": "USD",
+        "sku": "CZN-BTWLS",
+        "stock": 58
+    },
+    {
+        "id": "PROD-200",
+        "title": "IronClad Baking Sheet Set",
+        "description": "Non-stick heavy-gauge baking sheet set of three with rolled edges.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Kitchen",
+            "Bakeware",
+            "Sheets"
+        ],
+        "brand": "IronClad",
+        "price": "29.99",
+        "currency": "USD",
+        "sku": "IRC-BKSHT",
+        "stock": 349
     }
 ]
-
