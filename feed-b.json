@@ -6,5 +6,29 @@
         "price": "5.00",
         "link": "https://example.com/100",
         "image_link": "https://example.com/100.jpg"
+    },
+    {
+        "id": "101",
+        "title": "Vintage Clock",
+        "description": "Retro-style analog clock with brass finish",
+        "price": "34.99",
+        "link": "https://example.com/101",
+        "image_link": "https://example.com/101.jpg"
+    },
+    {
+        "id": "102",
+        "title": "Ceramic Vase",
+        "description": "Hand-painted ceramic vase for home decor",
+        "price": "22.50",
+        "link": "https://example.com/102",
+        "image_link": "https://example.com/102.jpg"
+    },
+    {
+        "id": "103",
+        "title": "Leather Journal",
+        "description": "Premium leather-bound journal with lined pages",
+        "price": "18.75",
+        "link": "https://example.com/103",
+        "image_link": "https://example.com/103.jpg"
     }
 ]

@@ -14,5 +14,29 @@
         "price": "19.99",
         "link": "https://example.com/2",
         "image_link": "https://example.com/2.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Sprocket",
+        "description": "A high-quality sprocket for industrial use",
+        "price": "14.99",
+        "link": "https://example.com/3",
+        "image_link": "https://example.com/3.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Thingamajig",
+        "description": "A versatile thingamajig for everyday tasks",
+        "price": "7.49",
+        "link": "https://example.com/4",
+        "image_link": "https://example.com/4.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Doohickey",
+        "description": "A compact doohickey with multiple functions",
+        "price": "24.99",
+        "link": "https://example.com/5",
+        "image_link": "https://example.com/5.jpg"
     }
 ]

@@ -3598,5 +3598,59 @@
         "currency": "USD",
         "sku": "IRC-BKSHT",
         "stock": 349
+    },
+    {
+        "id": "PROD-201",
+        "title": "NovaStar Gaming Headset",
+        "description": "Wireless gaming headset with 7.1 surround sound and noise-canceling mic.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Gaming",
+            "Audio"
+        ],
+        "brand": "NovaStar",
+        "price": "89.99",
+        "currency": "USD",
+        "sku": "NOV-GHEAD",
+        "stock": 215
+    },
+    {
+        "id": "PROD-202",
+        "title": "EcoBreeze Portable Fan",
+        "description": "Rechargeable portable fan with three speed settings and USB-C charging.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Home",
+            "Appliances",
+            "Portable"
+        ],
+        "brand": "EcoBreeze",
+        "price": "34.99",
+        "currency": "USD",
+        "sku": "ECO-PFAN",
+        "stock": 582
+    },
+    {
+        "id": "PROD-203",
+        "title": "TitanGrip Phone Case",
+        "description": "Military-grade drop protection phone case with built-in kickstand.",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 0,
+        "categories": [
+            "Electronics",
+            "Accessories",
+            "Phone Cases"
+        ],
+        "brand": "TitanGrip",
+        "price": "24.99",
+        "currency": "USD",
+        "sku": "TIT-PCASE",
+        "stock": 743
     }
 ]

@@ -125,5 +125,68 @@
         "location_id": "SYDNEY-1",
         "lat": "-33.868900",
         "lng": "151.210000"
+    },
+    {
+        "id": "TOKYO-1",
+        "title": "Tokyo",
+        "description": "The Tokyo office (Shibuya)",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "Tokyo",
+            "Japan"
+        ],
+        "address1": "1-12-1 Dogenzaka, Shibuya",
+        "address2": "Floor 15",
+        "city": "Tokyo",
+        "zip": "150-0043",
+        "region": "Kanto",
+        "country": "Japan",
+        "location_id": "TOKYO-1",
+        "lat": "35.659500",
+        "lng": "139.700600"
+    },
+    {
+        "id": "BERLIN-1",
+        "title": "Berlin",
+        "description": "The Berlin office (Mitte)",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "Berlin",
+            "Germany"
+        ],
+        "address1": "Friedrichstrasse 68",
+        "address2": "Floor 8",
+        "city": "Berlin",
+        "zip": "10117",
+        "region": "Berlin",
+        "country": "Germany",
+        "location_id": "BERLIN-1",
+        "lat": "52.520008",
+        "lng": "13.404954"
+    },
+    {
+        "id": "SINGAPORE-1",
+        "title": "Singapore",
+        "description": "The Singapore office (Marina Bay)",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "Singapore",
+            "Singapore"
+        ],
+        "address1": "10 Marina Boulevard",
+        "address2": "Level 30",
+        "city": "Singapore",
+        "zip": "018983",
+        "region": "Central Region",
+        "country": "Singapore",
+        "location_id": "SINGAPORE-1",
+        "lat": "1.281400",
+        "lng": "103.854600"
     }
 ]

@@ -4201,5 +4201,68 @@
         "location_id": "KIGALI-1",
         "lat": "-1.953600",
         "lng": "30.092200"
+    },
+    {
+        "id": "LISBON-1",
+        "title": "Lisbon",
+        "description": "The Lisbon office (Parque das Nacoes)",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "Lisbon",
+            "Portugal"
+        ],
+        "address1": "Rua do Bojador, Parque das Nacoes",
+        "address2": "Floor 6",
+        "city": "Lisbon",
+        "zip": "1990-024",
+        "region": "Lisboa",
+        "country": "Portugal",
+        "location_id": "LISBON-1",
+        "lat": "38.768200",
+        "lng": "-9.094300"
+    },
+    {
+        "id": "DUBAI-1",
+        "title": "Dubai",
+        "description": "The Dubai office (DIFC)",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "Dubai",
+            "United Arab Emirates"
+        ],
+        "address1": "Gate Village 4, DIFC",
+        "address2": "Level 14",
+        "city": "Dubai",
+        "zip": "506654",
+        "region": "Dubai",
+        "country": "United Arab Emirates",
+        "location_id": "DUBAI-1",
+        "lat": "25.215100",
+        "lng": "55.279400"
+    },
+    {
+        "id": "VANCOUVER-1",
+        "title": "Vancouver",
+        "description": "The Vancouver office (Gastown)",
+        "link": "empty",
+        "image_link": "empty",
+        "radius": 100,
+        "categories": [
+            "Vancouver",
+            "Canada"
+        ],
+        "address1": "300 Water Street",
+        "address2": "Suite 500",
+        "city": "Vancouver",
+        "zip": "V6B 1B8",
+        "region": "British Columbia",
+        "country": "Canada",
+        "location_id": "VANCOUVER-1",
+        "lat": "49.284000",
+        "lng": "-123.109000"
     }
 ]
